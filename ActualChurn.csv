@@ -1,0 +1,1081 @@
+C5,Churned,Competitor
+C14,Churned,Other
+C24,Churned,Other
+C33,Churned,Other
+C38,Churned,Competitor
+C39,Churned,Service Quality
+C41,Churned,Competitor
+C44,Churned,Other
+C46,Churned,Competitor
+C47,Churned,Other
+C53,Churned,Pricing
+C54,Churned,Competitor
+C58,Churned,Other
+C65,Churned,Competitor
+C69,Churned,Pricing
+C85,Churned,Competitor
+C90,Churned,Service Quality
+C91,Churned,Other
+C97,Churned,Service Quality
+C98,Churned,Competitor
+C108,Churned,Other
+C114,Churned,Pricing
+C116,Churned,Competitor
+C117,Churned,Service Quality
+C120,Churned,Service Quality
+C122,Churned,Pricing
+C125,Churned,Service Quality
+C136,Churned,Other
+C143,Churned,Competitor
+C148,Churned,Other
+C157,Churned,Competitor
+C166,Churned,Pricing
+C170,Churned,Pricing
+C172,Churned,Competitor
+C178,Churned,Pricing
+C189,Churned,Other
+C197,Churned,Other
+C203,Churned,Competitor
+C218,Churned,Competitor
+C227,Churned,Competitor
+C229,Churned,Service Quality
+C239,Churned,Other
+C242,Churned,Service Quality
+C247,Churned,Other
+C253,Churned,Competitor
+C254,Churned,Competitor
+C257,Churned,Service Quality
+C261,Churned,Competitor
+C265,Churned,Pricing
+C270,Churned,Service Quality
+C272,Churned,Pricing
+C273,Churned,Competitor
+C283,Churned,Other
+C298,Churned,Competitor
+C311,Churned,Pricing
+C340,Churned,Competitor
+C356,Churned,Other
+C359,Churned,Pricing
+C360,Churned,Service Quality
+C366,Churned,Pricing
+C368,Churned,Other
+C369,Churned,Pricing
+C373,Churned,Service Quality
+C378,Churned,Other
+C380,Churned,Competitor
+C385,Churned,Other
+C389,Churned,Competitor
+C392,Churned,Service Quality
+C397,Churned,Competitor
+C405,Churned,Competitor
+C406,Churned,Other
+C408,Churned,Competitor
+C411,Churned,Pricing
+C418,Churned,Other
+C432,Churned,Pricing
+C436,Churned,Service Quality
+C438,Churned,Competitor
+C449,Churned,Service Quality
+C451,Churned,Competitor
+C452,Churned,Other
+C466,Churned,Pricing
+C470,Churned,Competitor
+C475,Churned,Service Quality
+C477,Churned,Other
+C485,Churned,Service Quality
+C498,Churned,Other
+C501,Churned,Service Quality
+C505,Churned,Pricing
+C510,Churned,Service Quality
+C512,Churned,Service Quality
+C513,Churned,Competitor
+C523,Churned,Pricing
+C524,Churned,Service Quality
+C525,Churned,Other
+C527,Churned,Other
+C532,Churned,Pricing
+C537,Churned,Competitor
+C538,Churned,Service Quality
+C544,Churned,Service Quality
+C555,Churned,Competitor
+C560,Churned,Service Quality
+C571,Churned,Service Quality
+C573,Churned,Pricing
+C581,Churned,Competitor
+C582,Churned,Pricing
+C586,Churned,Competitor
+C597,Churned,Pricing
+C604,Churned,Service Quality
+C609,Churned,Other
+C610,Churned,Other
+C616,Churned,Service Quality
+C617,Churned,Service Quality
+C620,Churned,Pricing
+C623,Churned,Service Quality
+C634,Churned,Pricing
+C636,Churned,Pricing
+C645,Churned,Pricing
+C649,Churned,Pricing
+C650,Churned,Pricing
+C651,Churned,Other
+C654,Churned,Competitor
+C659,Churned,Service Quality
+C661,Churned,Service Quality
+C662,Churned,Other
+C678,Churned,Service Quality
+C683,Churned,Service Quality
+C690,Churned,Other
+C695,Churned,Competitor
+C698,Churned,Other
+C703,Churned,Other
+C705,Churned,Pricing
+C711,Churned,Other
+C715,Churned,Competitor
+C716,Churned,Competitor
+C727,Churned,Other
+C729,Churned,Other
+C733,Churned,Competitor
+C739,Churned,Competitor
+C743,Churned,Competitor
+C751,Churned,Service Quality
+C759,Churned,Other
+C764,Churned,Other
+C766,Churned,Other
+C769,Churned,Other
+C775,Churned,Other
+C777,Churned,Pricing
+C780,Churned,Pricing
+C782,Churned,Service Quality
+C783,Churned,Service Quality
+C792,Churned,Competitor
+C797,Churned,Other
+C801,Churned,Pricing
+C806,Churned,Pricing
+C808,Churned,Other
+C818,Churned,Service Quality
+C827,Churned,Competitor
+C831,Churned,Competitor
+C843,Churned,Pricing
+C846,Churned,Service Quality
+C857,Churned,Pricing
+C867,Churned,Competitor
+C870,Churned,Other
+C872,Churned,Other
+C873,Churned,Pricing
+C875,Churned,Pricing
+C876,Churned,Pricing
+C880,Churned,Competitor
+C882,Churned,Other
+C889,Churned,Service Quality
+C891,Churned,Service Quality
+C895,Churned,Other
+C896,Churned,Pricing
+C897,Churned,Service Quality
+C903,Churned,Other
+C919,Churned,Competitor
+C921,Churned,Competitor
+C926,Churned,Service Quality
+C928,Churned,Competitor
+C930,Churned,Pricing
+C942,Churned,Competitor
+C949,Churned,Competitor
+C959,Churned,Other
+C963,Churned,Competitor
+C973,Churned,Other
+C974,Churned,Pricing
+C979,Churned,Service Quality
+C983,Churned,Pricing
+C988,Churned,Other
+C990,Churned,Competitor
+C993,Churned,Other
+C1005,Churned,Service Quality
+C1013,Churned,Pricing
+C1014,Churned,Service Quality
+C1019,Churned,Pricing
+C1021,Churned,Pricing
+C1026,Churned,Other
+C1028,Churned,Pricing
+C1038,Churned,Other
+C1041,Churned,Service Quality
+C1042,Churned,Other
+C1046,Churned,Competitor
+C1048,Churned,Other
+C1054,Churned,Other
+C1057,Churned,Service Quality
+C1060,Churned,Competitor
+C1065,Churned,Other
+C1070,Churned,Competitor
+C1073,Churned,Competitor
+C1081,Churned,Other
+C1083,Churned,Service Quality
+C1087,Churned,Service Quality
+C1096,Churned,Service Quality
+C1104,Churned,Competitor
+C1105,Churned,Service Quality
+C1116,Churned,Other
+C1129,Churned,Service Quality
+C1130,Churned,Service Quality
+C1148,Churned,Pricing
+C1151,Churned,Service Quality
+C1161,Churned,Competitor
+C1162,Churned,Competitor
+C1167,Churned,Competitor
+C1179,Churned,Service Quality
+C1183,Churned,Pricing
+C1184,Churned,Service Quality
+C1195,Churned,Other
+C1199,Churned,Other
+C1200,Churned,Pricing
+C1206,Churned,Pricing
+C1208,Churned,Other
+C1209,Churned,Pricing
+C1216,Churned,Pricing
+C1217,Churned,Other
+C1225,Churned,Competitor
+C1226,Churned,Service Quality
+C1239,Churned,Pricing
+C1240,Churned,Service Quality
+C1241,Churned,Competitor
+C1247,Churned,Competitor
+C1263,Churned,Other
+C1275,Churned,Service Quality
+C1282,Churned,Service Quality
+C1286,Churned,Competitor
+C1287,Churned,Pricing
+C1289,Churned,Service Quality
+C1290,Churned,Service Quality
+C1291,Churned,Competitor
+C1292,Churned,Other
+C1300,Churned,Competitor
+C1301,Churned,Service Quality
+C1303,Churned,Pricing
+C1309,Churned,Competitor
+C1311,Churned,Service Quality
+C1314,Churned,Competitor
+C1321,Churned,Pricing
+C1325,Churned,Service Quality
+C1326,Churned,Other
+C1331,Churned,Competitor
+C1332,Churned,Service Quality
+C1333,Churned,Service Quality
+C1334,Churned,Pricing
+C1339,Churned,Competitor
+C1347,Churned,Competitor
+C1350,Churned,Other
+C1358,Churned,Pricing
+C1362,Churned,Service Quality
+C1370,Churned,Competitor
+C1377,Churned,Service Quality
+C1387,Churned,Service Quality
+C1389,Churned,Pricing
+C1391,Churned,Other
+C1392,Churned,Other
+C1393,Churned,Competitor
+C1394,Churned,Other
+C1395,Churned,Service Quality
+C1398,Churned,Competitor
+C1404,Churned,Competitor
+C1406,Churned,Other
+C1410,Churned,Competitor
+C1413,Churned,Service Quality
+C1415,Churned,Service Quality
+C1422,Churned,Other
+C1426,Churned,Other
+C1429,Churned,Other
+C1434,Churned,Other
+C1436,Churned,Competitor
+C1440,Churned,Pricing
+C1441,Churned,Competitor
+C1443,Churned,Pricing
+C1449,Churned,Service Quality
+C1454,Churned,Service Quality
+C1459,Churned,Pricing
+C1475,Churned,Other
+C1480,Churned,Other
+C1484,Churned,Pricing
+C1485,Churned,Pricing
+C1495,Churned,Competitor
+C1497,Churned,Other
+C1499,Churned,Other
+C1517,Churned,Other
+C1523,Churned,Competitor
+C1525,Churned,Competitor
+C1538,Churned,Other
+C1541,Churned,Service Quality
+C1545,Churned,Competitor
+C1548,Churned,Other
+C1550,Churned,Service Quality
+C1560,Churned,Other
+C1563,Churned,Competitor
+C1568,Churned,Competitor
+C1569,Churned,Other
+C1578,Churned,Service Quality
+C1584,Churned,Pricing
+C1585,Churned,Pricing
+C1587,Churned,Competitor
+C1588,Churned,Competitor
+C1591,Churned,Pricing
+C1592,Churned,Service Quality
+C1594,Churned,Other
+C1595,Churned,Competitor
+C1596,Churned,Competitor
+C1602,Churned,Other
+C1614,Churned,Pricing
+C1617,Churned,Other
+C1619,Churned,Pricing
+C1620,Churned,Pricing
+C1624,Churned,Competitor
+C1630,Churned,Pricing
+C1631,Churned,Competitor
+C1633,Churned,Competitor
+C1635,Churned,Competitor
+C1637,Churned,Other
+C1642,Churned,Service Quality
+C1643,Churned,Other
+C1658,Churned,Pricing
+C1660,Churned,Other
+C1661,Churned,Pricing
+C1669,Churned,Service Quality
+C1673,Churned,Service Quality
+C1686,Churned,Pricing
+C1690,Churned,Pricing
+C1695,Churned,Competitor
+C1700,Churned,Service Quality
+C1705,Churned,Other
+C1708,Churned,Pricing
+C1711,Churned,Pricing
+C1712,Churned,Other
+C1718,Churned,Service Quality
+C1721,Churned,Service Quality
+C1729,Churned,Service Quality
+C1738,Churned,Pricing
+C1742,Churned,Other
+C1745,Churned,Service Quality
+C1749,Churned,Service Quality
+C1751,Churned,Competitor
+C1757,Churned,Service Quality
+C1761,Churned,Competitor
+C1763,Churned,Service Quality
+C1765,Churned,Service Quality
+C1772,Churned,Service Quality
+C1778,Churned,Service Quality
+C1781,Churned,Service Quality
+C1786,Churned,Pricing
+C1793,Churned,Competitor
+C1794,Churned,Service Quality
+C1797,Churned,Pricing
+C1804,Churned,Other
+C1808,Churned,Other
+C1820,Churned,Service Quality
+C1821,Churned,Service Quality
+C1825,Churned,Pricing
+C1832,Churned,Service Quality
+C1833,Churned,Service Quality
+C1836,Churned,Service Quality
+C1838,Churned,Pricing
+C1840,Churned,Competitor
+C1847,Churned,Competitor
+C1848,Churned,Other
+C1861,Churned,Pricing
+C1868,Churned,Other
+C1870,Churned,Competitor
+C1887,Churned,Competitor
+C1888,Churned,Pricing
+C1891,Churned,Competitor
+C1895,Churned,Pricing
+C1899,Churned,Other
+C1913,Churned,Service Quality
+C1915,Churned,Service Quality
+C1917,Churned,Competitor
+C1922,Churned,Service Quality
+C1928,Churned,Competitor
+C1930,Churned,Competitor
+C1932,Churned,Other
+C1934,Churned,Service Quality
+C1938,Churned,Competitor
+C1940,Churned,Competitor
+C1943,Churned,Other
+C1944,Churned,Pricing
+C1957,Churned,Service Quality
+C1972,Churned,Competitor
+C1974,Churned,Pricing
+C1986,Churned,Pricing
+C1988,Churned,Pricing
+C1994,Churned,Service Quality
+C2000,Churned,Other
+C2009,Churned,Other
+C2012,Churned,Service Quality
+C2014,Churned,Pricing
+C2015,Churned,Other
+C2022,Churned,Service Quality
+C2023,Churned,Service Quality
+C2029,Churned,Other
+C2040,Churned,Pricing
+C2041,Churned,Other
+C2045,Churned,Pricing
+C2046,Churned,Other
+C2048,Churned,Pricing
+C2056,Churned,Pricing
+C2068,Churned,Competitor
+C2083,Churned,Competitor
+C2087,Churned,Pricing
+C2102,Churned,Competitor
+C2105,Churned,Competitor
+C2108,Churned,Pricing
+C2122,Churned,Competitor
+C2123,Churned,Pricing
+C2125,Churned,Pricing
+C2127,Churned,Service Quality
+C2128,Churned,Competitor
+C2134,Churned,Competitor
+C2136,Churned,Other
+C2139,Churned,Pricing
+C2143,Churned,Service Quality
+C2145,Churned,Competitor
+C2146,Churned,Pricing
+C2147,Churned,Other
+C2148,Churned,Competitor
+C2155,Churned,Service Quality
+C2159,Churned,Pricing
+C2160,Churned,Service Quality
+C2164,Churned,Pricing
+C2165,Churned,Competitor
+C2167,Churned,Competitor
+C2174,Churned,Service Quality
+C2178,Churned,Competitor
+C2180,Churned,Service Quality
+C2182,Churned,Pricing
+C2187,Churned,Service Quality
+C2191,Churned,Pricing
+C2195,Churned,Service Quality
+C2201,Churned,Service Quality
+C2204,Churned,Competitor
+C2209,Churned,Other
+C2210,Churned,Service Quality
+C2218,Churned,Service Quality
+C2219,Churned,Competitor
+C2225,Churned,Pricing
+C2243,Churned,Competitor
+C2246,Churned,Service Quality
+C2248,Churned,Other
+C2258,Churned,Service Quality
+C2261,Churned,Competitor
+C2264,Churned,Competitor
+C2268,Churned,Competitor
+C2270,Churned,Competitor
+C2274,Churned,Other
+C2287,Churned,Other
+C2289,Churned,Competitor
+C2290,Churned,Competitor
+C2291,Churned,Service Quality
+C2293,Churned,Other
+C2301,Churned,Service Quality
+C2304,Churned,Competitor
+C2308,Churned,Other
+C2310,Churned,Service Quality
+C2314,Churned,Service Quality
+C2326,Churned,Pricing
+C2327,Churned,Service Quality
+C2330,Churned,Other
+C2333,Churned,Competitor
+C2341,Churned,Competitor
+C2343,Churned,Pricing
+C2349,Churned,Pricing
+C2352,Churned,Pricing
+C2360,Churned,Other
+C2381,Churned,Service Quality
+C2382,Churned,Service Quality
+C2384,Churned,Pricing
+C2386,Churned,Service Quality
+C2387,Churned,Pricing
+C2393,Churned,Other
+C2396,Churned,Competitor
+C2398,Churned,Competitor
+C2399,Churned,Other
+C2402,Churned,Other
+C2405,Churned,Service Quality
+C2412,Churned,Service Quality
+C2414,Churned,Service Quality
+C2415,Churned,Other
+C2422,Churned,Pricing
+C2423,Churned,Pricing
+C2430,Churned,Other
+C2438,Churned,Other
+C2447,Churned,Service Quality
+C2458,Churned,Other
+C2460,Churned,Other
+C2464,Churned,Other
+C2481,Churned,Pricing
+C2488,Churned,Pricing
+C2490,Churned,Pricing
+C2491,Churned,Other
+C2495,Churned,Competitor
+C2500,Churned,Other
+C2501,Churned,Other
+C2506,Churned,Service Quality
+C2510,Churned,Other
+C2513,Churned,Other
+C2536,Churned,Competitor
+C2549,Churned,Other
+C2552,Churned,Pricing
+C2557,Churned,Service Quality
+C2558,Churned,Service Quality
+C2559,Churned,Other
+C2560,Churned,Competitor
+C2565,Churned,Competitor
+C2571,Churned,Service Quality
+C2586,Churned,Competitor
+C2595,Churned,Service Quality
+C2600,Churned,Service Quality
+C2601,Churned,Competitor
+C2602,Churned,Pricing
+C2610,Churned,Pricing
+C2614,Churned,Pricing
+C2623,Churned,Service Quality
+C2627,Churned,Other
+C2635,Churned,Competitor
+C2641,Churned,Service Quality
+C2646,Churned,Other
+C2648,Churned,Competitor
+C2657,Churned,Pricing
+C2662,Churned,Other
+C2666,Churned,Competitor
+C2680,Churned,Other
+C2687,Churned,Other
+C2688,Churned,Other
+C2695,Churned,Pricing
+C2700,Churned,Pricing
+C2702,Churned,Other
+C2703,Churned,Competitor
+C2704,Churned,Service Quality
+C2706,Churned,Other
+C2710,Churned,Service Quality
+C2711,Churned,Pricing
+C2712,Churned,Pricing
+C2713,Churned,Service Quality
+C2715,Churned,Other
+C2725,Churned,Pricing
+C2727,Churned,Competitor
+C2729,Churned,Service Quality
+C2730,Churned,Pricing
+C2735,Churned,Other
+C2738,Churned,Competitor
+C2741,Churned,Service Quality
+C2743,Churned,Pricing
+C2748,Churned,Competitor
+C2752,Churned,Pricing
+C2756,Churned,Service Quality
+C2763,Churned,Competitor
+C2772,Churned,Other
+C2773,Churned,Other
+C2777,Churned,Pricing
+C2781,Churned,Competitor
+C2782,Churned,Service Quality
+C2787,Churned,Other
+C2790,Churned,Service Quality
+C2792,Churned,Service Quality
+C2795,Churned,Service Quality
+C2796,Churned,Other
+C2799,Churned,Pricing
+C2802,Churned,Competitor
+C2805,Churned,Other
+C2810,Churned,Service Quality
+C2811,Churned,Service Quality
+C2816,Churned,Other
+C2822,Churned,Pricing
+C2823,Churned,Other
+C2824,Churned,Service Quality
+C2825,Churned,Pricing
+C2826,Churned,Service Quality
+C2827,Churned,Service Quality
+C2829,Churned,Competitor
+C2833,Churned,Other
+C2837,Churned,Other
+C2838,Churned,Other
+C2844,Churned,Other
+C2850,Churned,Pricing
+C2852,Churned,Service Quality
+C2861,Churned,Service Quality
+C2864,Churned,Competitor
+C2868,Churned,Competitor
+C2873,Churned,Pricing
+C2875,Churned,Pricing
+C2877,Churned,Pricing
+C2881,Churned,Competitor
+C2883,Churned,Pricing
+C2885,Churned,Service Quality
+C2889,Churned,Service Quality
+C2908,Churned,Service Quality
+C2909,Churned,Service Quality
+C2915,Churned,Pricing
+C2916,Churned,Pricing
+C2920,Churned,Competitor
+C2933,Churned,Other
+C2934,Churned,Other
+C2935,Churned,Other
+C2941,Churned,Other
+C2944,Churned,Competitor
+C2949,Churned,Competitor
+C2950,Churned,Other
+C2968,Churned,Service Quality
+C2972,Churned,Pricing
+C2973,Churned,Pricing
+C2976,Churned,Competitor
+C2983,Churned,Service Quality
+C2987,Churned,Other
+C3008,Churned,Pricing
+C3009,Churned,Competitor
+C3011,Churned,Competitor
+C3017,Churned,Service Quality
+C3018,Churned,Competitor
+C3026,Churned,Other
+C3028,Churned,Competitor
+C3030,Churned,Pricing
+C3038,Churned,Competitor
+C3040,Churned,Pricing
+C3045,Churned,Pricing
+C3051,Churned,Other
+C3056,Churned,Pricing
+C3057,Churned,Service Quality
+C3058,Churned,Pricing
+C3059,Churned,Service Quality
+C3073,Churned,Service Quality
+C3077,Churned,Service Quality
+C3080,Churned,Other
+C3102,Churned,Service Quality
+C3118,Churned,Competitor
+C3127,Churned,Pricing
+C3137,Churned,Competitor
+C3138,Churned,Other
+C3139,Churned,Pricing
+C3145,Churned,Other
+C3151,Churned,Service Quality
+C3154,Churned,Competitor
+C3155,Churned,Service Quality
+C3160,Churned,Competitor
+C3161,Churned,Service Quality
+C3163,Churned,Other
+C3164,Churned,Competitor
+C3165,Churned,Competitor
+C3168,Churned,Competitor
+C3174,Churned,Pricing
+C3179,Churned,Competitor
+C3180,Churned,Other
+C3181,Churned,Competitor
+C3182,Churned,Service Quality
+C3194,Churned,Other
+C3202,Churned,Other
+C3205,Churned,Service Quality
+C3207,Churned,Competitor
+C3209,Churned,Service Quality
+C3214,Churned,Other
+C3215,Churned,Competitor
+C3216,Churned,Other
+C3217,Churned,Competitor
+C3220,Churned,Other
+C3225,Churned,Competitor
+C3226,Churned,Competitor
+C3227,Churned,Service Quality
+C3228,Churned,Competitor
+C3229,Churned,Pricing
+C3231,Churned,Competitor
+C3239,Churned,Competitor
+C3244,Churned,Service Quality
+C3250,Churned,Other
+C3251,Churned,Pricing
+C3253,Churned,Competitor
+C3266,Churned,Service Quality
+C3270,Churned,Pricing
+C3272,Churned,Other
+C3273,Churned,Other
+C3282,Churned,Pricing
+C3291,Churned,Other
+C3293,Churned,Competitor
+C3295,Churned,Pricing
+C3304,Churned,Service Quality
+C3310,Churned,Other
+C3314,Churned,Competitor
+C3326,Churned,Service Quality
+C3331,Churned,Pricing
+C3334,Churned,Service Quality
+C3346,Churned,Other
+C3349,Churned,Service Quality
+C3353,Churned,Other
+C3361,Churned,Service Quality
+C3368,Churned,Other
+C3370,Churned,Other
+C3374,Churned,Other
+C3375,Churned,Other
+C3384,Churned,Service Quality
+C3385,Churned,Competitor
+C3392,Churned,Service Quality
+C3394,Churned,Other
+C3397,Churned,Pricing
+C3398,Churned,Competitor
+C3404,Churned,Service Quality
+C3411,Churned,Competitor
+C3412,Churned,Pricing
+C3417,Churned,Service Quality
+C3418,Churned,Service Quality
+C3419,Churned,Competitor
+C3423,Churned,Competitor
+C3428,Churned,Service Quality
+C3433,Churned,Other
+C3434,Churned,Competitor
+C3438,Churned,Service Quality
+C3440,Churned,Other
+C3453,Churned,Other
+C3458,Churned,Competitor
+C3466,Churned,Other
+C3469,Churned,Service Quality
+C3470,Churned,Pricing
+C3473,Churned,Pricing
+C3474,Churned,Service Quality
+C3475,Churned,Other
+C3481,Churned,Pricing
+C3482,Churned,Other
+C3483,Churned,Other
+C3489,Churned,Other
+C3492,Churned,Competitor
+C3495,Churned,Competitor
+C3506,Churned,Other
+C3507,Churned,Service Quality
+C3508,Churned,Competitor
+C3519,Churned,Pricing
+C3526,Churned,Pricing
+C3531,Churned,Competitor
+C3532,Churned,Pricing
+C3536,Churned,Service Quality
+C3552,Churned,Competitor
+C3556,Churned,Pricing
+C3559,Churned,Competitor
+C3560,Churned,Competitor
+C3562,Churned,Pricing
+C3569,Churned,Competitor
+C3576,Churned,Service Quality
+C3577,Churned,Pricing
+C3579,Churned,Service Quality
+C3580,Churned,Pricing
+C3582,Churned,Pricing
+C3586,Churned,Competitor
+C3590,Churned,Pricing
+C3593,Churned,Other
+C3595,Churned,Other
+C3600,Churned,Other
+C3604,Churned,Pricing
+C3607,Churned,Other
+C3609,Churned,Competitor
+C3612,Churned,Pricing
+C3613,Churned,Service Quality
+C3624,Churned,Service Quality
+C3626,Churned,Competitor
+C3636,Churned,Other
+C3639,Churned,Competitor
+C3645,Churned,Service Quality
+C3648,Churned,Service Quality
+C3653,Churned,Pricing
+C3654,Churned,Pricing
+C3664,Churned,Service Quality
+C3671,Churned,Pricing
+C3674,Churned,Service Quality
+C3681,Churned,Pricing
+C3684,Churned,Other
+C3688,Churned,Other
+C3690,Churned,Other
+C3695,Churned,Competitor
+C3698,Churned,Pricing
+C3708,Churned,Other
+C3711,Churned,Pricing
+C3712,Churned,Competitor
+C3722,Churned,Other
+C3723,Churned,Pricing
+C3730,Churned,Competitor
+C3734,Churned,Service Quality
+C3736,Churned,Pricing
+C3738,Churned,Service Quality
+C3739,Churned,Other
+C3742,Churned,Other
+C3745,Churned,Competitor
+C3747,Churned,Competitor
+C3751,Churned,Service Quality
+C3753,Churned,Competitor
+C3758,Churned,Competitor
+C3760,Churned,Other
+C3766,Churned,Competitor
+C3767,Churned,Service Quality
+C3769,Churned,Competitor
+C3773,Churned,Pricing
+C3776,Churned,Pricing
+C3781,Churned,Other
+C3787,Churned,Service Quality
+C3797,Churned,Competitor
+C3799,Churned,Service Quality
+C3803,Churned,Competitor
+C3807,Churned,Other
+C3812,Churned,Competitor
+C3817,Churned,Pricing
+C3820,Churned,Pricing
+C3821,Churned,Service Quality
+C3822,Churned,Service Quality
+C3826,Churned,Competitor
+C3827,Churned,Service Quality
+C3829,Churned,Service Quality
+C3836,Churned,Competitor
+C3839,Churned,Other
+C3841,Churned,Pricing
+C3847,Churned,Competitor
+C3848,Churned,Service Quality
+C3849,Churned,Competitor
+C3850,Churned,Competitor
+C3853,Churned,Pricing
+C3859,Churned,Service Quality
+C3867,Churned,Competitor
+C3874,Churned,Service Quality
+C3878,Churned,Other
+C3879,Churned,Service Quality
+C3881,Churned,Pricing
+C3886,Churned,Competitor
+C3892,Churned,Competitor
+C3905,Churned,Competitor
+C3921,Churned,Service Quality
+C3922,Churned,Service Quality
+C3925,Churned,Service Quality
+C3928,Churned,Competitor
+C3929,Churned,Pricing
+C3933,Churned,Competitor
+C3935,Churned,Competitor
+C3937,Churned,Other
+C3942,Churned,Other
+C3946,Churned,Competitor
+C3950,Churned,Service Quality
+C3956,Churned,Competitor
+C3957,Churned,Pricing
+C3960,Churned,Service Quality
+C3969,Churned,Pricing
+C3979,Churned,Service Quality
+C3981,Churned,Competitor
+C3984,Churned,Other
+C3990,Churned,Pricing
+C3995,Churned,Pricing
+C3997,Churned,Service Quality
+C4005,Churned,Competitor
+C4010,Churned,Pricing
+C4012,Churned,Other
+C4017,Churned,Competitor
+C4023,Churned,Service Quality
+C4031,Churned,Pricing
+C4034,Churned,Other
+C4035,Churned,Service Quality
+C4036,Churned,Pricing
+C4038,Churned,Service Quality
+C4041,Churned,Pricing
+C4047,Churned,Other
+C4049,Churned,Competitor
+C4059,Churned,Pricing
+C4064,Churned,Competitor
+C4068,Churned,Other
+C4076,Churned,Other
+C4082,Churned,Pricing
+C4086,Churned,Pricing
+C4099,Churned,Pricing
+C4101,Churned,Competitor
+C4103,Churned,Other
+C4104,Churned,Service Quality
+C4108,Churned,Pricing
+C4109,Churned,Service Quality
+C4112,Churned,Other
+C4113,Churned,Service Quality
+C4117,Churned,Competitor
+C4123,Churned,Service Quality
+C4125,Churned,Competitor
+C4131,Churned,Competitor
+C4140,Churned,Service Quality
+C4146,Churned,Service Quality
+C4147,Churned,Pricing
+C4162,Churned,Competitor
+C4170,Churned,Other
+C4172,Churned,Competitor
+C4184,Churned,Pricing
+C4192,Churned,Competitor
+C4194,Churned,Pricing
+C4197,Churned,Competitor
+C4199,Churned,Pricing
+C4200,Churned,Service Quality
+C4203,Churned,Pricing
+C4205,Churned,Other
+C4211,Churned,Competitor
+C4228,Churned,Other
+C4234,Churned,Competitor
+C4239,Churned,Pricing
+C4244,Churned,Competitor
+C4249,Churned,Other
+C4251,Churned,Pricing
+C4254,Churned,Pricing
+C4259,Churned,Other
+C4266,Churned,Other
+C4267,Churned,Other
+C4269,Churned,Other
+C4273,Churned,Other
+C4278,Churned,Other
+C4285,Churned,Service Quality
+C4302,Churned,Pricing
+C4305,Churned,Competitor
+C4309,Churned,Competitor
+C4311,Churned,Service Quality
+C4318,Churned,Other
+C4321,Churned,Other
+C4323,Churned,Pricing
+C4324,Churned,Other
+C4342,Churned,Competitor
+C4343,Churned,Other
+C4345,Churned,Pricing
+C4346,Churned,Competitor
+C4347,Churned,Competitor
+C4361,Churned,Other
+C4369,Churned,Pricing
+C4370,Churned,Pricing
+C4372,Churned,Pricing
+C4378,Churned,Service Quality
+C4384,Churned,Competitor
+C4389,Churned,Service Quality
+C4392,Churned,Service Quality
+C4396,Churned,Service Quality
+C4406,Churned,Competitor
+C4407,Churned,Other
+C4410,Churned,Competitor
+C4412,Churned,Pricing
+C4418,Churned,Pricing
+C4420,Churned,Service Quality
+C4422,Churned,Competitor
+C4425,Churned,Other
+C4428,Churned,Pricing
+C4434,Churned,Other
+C4438,Churned,Service Quality
+C4441,Churned,Pricing
+C4446,Churned,Competitor
+C4456,Churned,Other
+C4457,Churned,Pricing
+C4466,Churned,Pricing
+C4467,Churned,Service Quality
+C4473,Churned,Service Quality
+C4475,Churned,Competitor
+C4476,Churned,Competitor
+C4478,Churned,Competitor
+C4480,Churned,Service Quality
+C4489,Churned,Pricing
+C4493,Churned,Pricing
+C4498,Churned,Pricing
+C4500,Churned,Competitor
+C4505,Churned,Competitor
+C4508,Churned,Service Quality
+C4511,Churned,Pricing
+C4512,Churned,Competitor
+C4517,Churned,Pricing
+C4521,Churned,Competitor
+C4527,Churned,Competitor
+C4539,Churned,Other
+C4543,Churned,Pricing
+C4550,Churned,Competitor
+C4551,Churned,Competitor
+C4552,Churned,Pricing
+C4557,Churned,Pricing
+C4558,Churned,Competitor
+C4559,Churned,Other
+C4564,Churned,Competitor
+C4565,Churned,Service Quality
+C4566,Churned,Service Quality
+C4568,Churned,Service Quality
+C4571,Churned,Other
+C4572,Churned,Other
+C4581,Churned,Pricing
+C4590,Churned,Competitor
+C4592,Churned,Competitor
+C4593,Churned,Competitor
+C4598,Churned,Other
+C4599,Churned,Service Quality
+C4603,Churned,Service Quality
+C4605,Churned,Competitor
+C4609,Churned,Other
+C4613,Churned,Competitor
+C4618,Churned,Competitor
+C4629,Churned,Competitor
+C4630,Churned,Pricing
+C4633,Churned,Competitor
+C4634,Churned,Other
+C4635,Churned,Other
+C4636,Churned,Pricing
+C4643,Churned,Other
+C4650,Churned,Other
+C4662,Churned,Pricing
+C4663,Churned,Service Quality
+C4666,Churned,Pricing
+C4668,Churned,Competitor
+C4670,Churned,Competitor
+C4673,Churned,Service Quality
+C4675,Churned,Service Quality
+C4680,Churned,Competitor
+C4685,Churned,Service Quality
+C4687,Churned,Pricing
+C4701,Churned,Pricing
+C4707,Churned,Competitor
+C4711,Churned,Competitor
+C4715,Churned,Other
+C4716,Churned,Pricing
+C4719,Churned,Competitor
+C4725,Churned,Pricing
+C4727,Churned,Other
+C4730,Churned,Competitor
+C4735,Churned,Service Quality
+C4740,Churned,Pricing
+C4741,Churned,Pricing
+C4748,Churned,Pricing
+C4753,Churned,Competitor
+C4763,Churned,Other
+C4775,Churned,Service Quality
+C4777,Churned,Pricing
+C4780,Churned,Other
+C4787,Churned,Service Quality
+C4800,Churned,Competitor
+C4801,Churned,Pricing
+C4802,Churned,Service Quality
+C4804,Churned,Competitor
+C4810,Churned,Competitor
+C4815,Churned,Competitor
+C4822,Churned,Service Quality
+C4823,Churned,Other
+C4826,Churned,Other
+C4829,Churned,Pricing
+C4832,Churned,Competitor
+C4836,Churned,Pricing
+C4837,Churned,Competitor
+C4847,Churned,Other
+C4858,Churned,Service Quality
+C4859,Churned,Other
+C4871,Churned,Service Quality
+C4876,Churned,Other
+C4882,Churned,Other
+C4892,Churned,Pricing
+C4896,Churned,Competitor
+C4898,Churned,Competitor
+C4908,Churned,Service Quality
+C4917,Churned,Service Quality
+C4918,Churned,Other
+C4938,Churned,Other
+C4942,Churned,Other
+C4949,Churned,Pricing
+C4951,Churned,Pricing
+C4957,Churned,Competitor
+C4960,Churned,Other
+C4963,Churned,Competitor
+C4964,Churned,Other
+C4967,Churned,Other
+C4968,Churned,Service Quality
+C4969,Churned,Pricing
+C4970,Churned,Competitor
+C4972,Churned,Other
+C4980,Churned,Other
+C4986,Churned,Service Quality
+C4995,Churned,Competitor
+C4996,Churned,Service Quality
+C4999,Churned,Service Quality
+C5000,Churned,Service Quality

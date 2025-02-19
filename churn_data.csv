@@ -1,0 +1,5001 @@
+CustomerID,ChurnStatus,ChurnReason
+C1,Active,Other
+C2,Active,Service Quality
+C3,Active,Service Quality
+C4,Active,Other
+C5,Churned,Competitor
+C6,Active,Service Quality
+C7,Active,Other
+C8,Active,Other
+C9,Active,Other
+C10,Active,Pricing
+C11,Active,Other
+C12,Active,Other
+C13,Active,Pricing
+C14,Churned,Other
+C15,Active,Service Quality
+C16,Active,Competitor
+C17,Active,Pricing
+C18,Active,Other
+C19,Active,Competitor
+C20,Active,Service Quality
+C21,Active,Service Quality
+C22,Active,Competitor
+C23,Active,Competitor
+C24,Churned,Other
+C25,Active,Service Quality
+C26,Active,Competitor
+C27,Active,Pricing
+C28,Active,Service Quality
+C29,Active,Competitor
+C30,Active,Other
+C31,Active,Competitor
+C32,Active,Service Quality
+C33,Churned,Other
+C34,Active,Pricing
+C35,Active,Other
+C36,Active,Other
+C37,Active,Pricing
+C38,Churned,Competitor
+C39,Churned,Service Quality
+C40,Active,Pricing
+C41,Churned,Competitor
+C42,Active,Pricing
+C43,Active,Pricing
+C44,Churned,Other
+C45,Active,Pricing
+C46,Churned,Competitor
+C47,Churned,Other
+C48,Active,Other
+C49,Active,Competitor
+C50,Active,Service Quality
+C51,Active,Pricing
+C52,Active,Service Quality
+C53,Churned,Pricing
+C54,Churned,Competitor
+C55,Active,Competitor
+C56,Active,Other
+C57,Active,Service Quality
+C58,Churned,Other
+C59,Active,Pricing
+C60,Active,Competitor
+C61,Active,Competitor
+C62,Active,Other
+C63,Active,Other
+C64,Active,Pricing
+C65,Churned,Competitor
+C66,Active,Service Quality
+C67,Active,Competitor
+C68,Active,Other
+C69,Churned,Pricing
+C70,Active,Service Quality
+C71,Active,Pricing
+C72,Active,Competitor
+C73,Active,Competitor
+C74,Active,Service Quality
+C75,Active,Pricing
+C76,Active,Competitor
+C77,Active,Service Quality
+C78,Active,Other
+C79,Active,Other
+C80,Active,Pricing
+C81,Active,Competitor
+C82,Active,Service Quality
+C83,Active,Service Quality
+C84,Active,Competitor
+C85,Churned,Competitor
+C86,Active,Competitor
+C87,Active,Competitor
+C88,Active,Pricing
+C89,Active,Service Quality
+C90,Churned,Service Quality
+C91,Churned,Other
+C92,Active,Service Quality
+C93,Active,Pricing
+C94,Active,Service Quality
+C95,Active,Other
+C96,Active,Pricing
+C97,Churned,Service Quality
+C98,Churned,Competitor
+C99,Active,Competitor
+C100,Active,Service Quality
+C101,Active,Other
+C102,Active,Other
+C103,Active,Service Quality
+C104,Active,Service Quality
+C105,Active,Competitor
+C106,Active,Service Quality
+C107,Active,Pricing
+C108,Churned,Other
+C109,Active,Service Quality
+C110,Active,Competitor
+C111,Active,Pricing
+C112,Active,Other
+C113,Active,Service Quality
+C114,Churned,Pricing
+C115,Active,Competitor
+C116,Churned,Competitor
+C117,Churned,Service Quality
+C118,Active,Service Quality
+C119,Active,Pricing
+C120,Churned,Service Quality
+C121,Active,Competitor
+C122,Churned,Pricing
+C123,Active,Service Quality
+C124,Active,Other
+C125,Churned,Service Quality
+C126,Active,Other
+C127,Active,Other
+C128,Active,Pricing
+C129,Active,Competitor
+C130,Active,Service Quality
+C131,Active,Competitor
+C132,Active,Pricing
+C133,Active,Competitor
+C134,Active,Service Quality
+C135,Active,Competitor
+C136,Churned,Other
+C137,Active,Service Quality
+C138,Active,Service Quality
+C139,Active,Pricing
+C140,Active,Pricing
+C141,Active,Competitor
+C142,Active,Pricing
+C143,Churned,Competitor
+C144,Active,Other
+C145,Active,Pricing
+C146,Active,Competitor
+C147,Active,Competitor
+C148,Churned,Other
+C149,Active,Competitor
+C150,Active,Pricing
+C151,Active,Other
+C152,Active,Service Quality
+C153,Active,Service Quality
+C154,Active,Other
+C155,Active,Pricing
+C156,Active,Other
+C157,Churned,Competitor
+C158,Active,Competitor
+C159,Active,Competitor
+C160,Active,Service Quality
+C161,Active,Other
+C162,Active,Pricing
+C163,Active,Pricing
+C164,Active,Pricing
+C165,Active,Pricing
+C166,Churned,Pricing
+C167,Active,Other
+C168,Active,Service Quality
+C169,Active,Pricing
+C170,Churned,Pricing
+C171,Active,Pricing
+C172,Churned,Competitor
+C173,Active,Other
+C174,Active,Competitor
+C175,Active,Other
+C176,Active,Other
+C177,Active,Pricing
+C178,Churned,Pricing
+C179,Active,Pricing
+C180,Active,Pricing
+C181,Active,Pricing
+C182,Active,Other
+C183,Active,Service Quality
+C184,Active,Competitor
+C185,Active,Other
+C186,Active,Competitor
+C187,Active,Pricing
+C188,Active,Service Quality
+C189,Churned,Other
+C190,Active,Service Quality
+C191,Active,Other
+C192,Active,Competitor
+C193,Active,Other
+C194,Active,Competitor
+C195,Active,Service Quality
+C196,Active,Other
+C197,Churned,Other
+C198,Active,Pricing
+C199,Active,Other
+C200,Active,Pricing
+C201,Active,Pricing
+C202,Active,Other
+C203,Churned,Competitor
+C204,Active,Other
+C205,Active,Service Quality
+C206,Active,Other
+C207,Active,Pricing
+C208,Active,Other
+C209,Active,Competitor
+C210,Active,Pricing
+C211,Active,Pricing
+C212,Active,Other
+C213,Active,Other
+C214,Active,Service Quality
+C215,Active,Competitor
+C216,Active,Other
+C217,Active,Competitor
+C218,Churned,Competitor
+C219,Active,Other
+C220,Active,Pricing
+C221,Active,Other
+C222,Active,Pricing
+C223,Active,Competitor
+C224,Active,Competitor
+C225,Active,Pricing
+C226,Active,Service Quality
+C227,Churned,Competitor
+C228,Active,Other
+C229,Churned,Service Quality
+C230,Active,Service Quality
+C231,Active,Service Quality
+C232,Active,Other
+C233,Active,Competitor
+C234,Active,Competitor
+C235,Active,Competitor
+C236,Active,Pricing
+C237,Active,Service Quality
+C238,Active,Competitor
+C239,Churned,Other
+C240,Active,Other
+C241,Active,Pricing
+C242,Churned,Service Quality
+C243,Active,Competitor
+C244,Active,Pricing
+C245,Active,Other
+C246,Active,Competitor
+C247,Churned,Other
+C248,Active,Other
+C249,Active,Competitor
+C250,Active,Other
+C251,Active,Competitor
+C252,Active,Other
+C253,Churned,Competitor
+C254,Churned,Competitor
+C255,Active,Other
+C256,Active,Service Quality
+C257,Churned,Service Quality
+C258,Active,Other
+C259,Active,Service Quality
+C260,Active,Competitor
+C261,Churned,Competitor
+C262,Active,Competitor
+C263,Active,Service Quality
+C264,Active,Other
+C265,Churned,Pricing
+C266,Active,Pricing
+C267,Active,Service Quality
+C268,Active,Other
+C269,Active,Service Quality
+C270,Churned,Service Quality
+C271,Active,Pricing
+C272,Churned,Pricing
+C273,Churned,Competitor
+C274,Active,Other
+C275,Active,Service Quality
+C276,Active,Other
+C277,Active,Other
+C278,Active,Service Quality
+C279,Active,Service Quality
+C280,Active,Competitor
+C281,Active,Service Quality
+C282,Active,Competitor
+C283,Churned,Other
+C284,Active,Other
+C285,Active,Other
+C286,Active,Competitor
+C287,Active,Service Quality
+C288,Active,Service Quality
+C289,Active,Service Quality
+C290,Active,Service Quality
+C291,Active,Service Quality
+C292,Active,Competitor
+C293,Active,Service Quality
+C294,Active,Service Quality
+C295,Active,Competitor
+C296,Active,Competitor
+C297,Active,Competitor
+C298,Churned,Competitor
+C299,Active,Other
+C300,Active,Other
+C301,Active,Pricing
+C302,Active,Competitor
+C303,Active,Other
+C304,Active,Other
+C305,Active,Service Quality
+C306,Active,Other
+C307,Active,Service Quality
+C308,Active,Competitor
+C309,Active,Service Quality
+C310,Active,Service Quality
+C311,Churned,Pricing
+C312,Active,Other
+C313,Active,Pricing
+C314,Active,Pricing
+C315,Active,Pricing
+C316,Active,Pricing
+C317,Active,Competitor
+C318,Active,Other
+C319,Active,Other
+C320,Active,Pricing
+C321,Active,Other
+C322,Active,Competitor
+C323,Active,Other
+C324,Active,Competitor
+C325,Active,Other
+C326,Active,Service Quality
+C327,Active,Service Quality
+C328,Active,Service Quality
+C329,Active,Pricing
+C330,Active,Competitor
+C331,Active,Competitor
+C332,Active,Pricing
+C333,Active,Pricing
+C334,Active,Competitor
+C335,Active,Competitor
+C336,Active,Service Quality
+C337,Active,Competitor
+C338,Active,Service Quality
+C339,Active,Service Quality
+C340,Churned,Competitor
+C341,Active,Other
+C342,Active,Pricing
+C343,Active,Pricing
+C344,Active,Pricing
+C345,Active,Service Quality
+C346,Active,Service Quality
+C347,Active,Pricing
+C348,Active,Competitor
+C349,Active,Pricing
+C350,Active,Other
+C351,Active,Pricing
+C352,Active,Other
+C353,Active,Pricing
+C354,Active,Service Quality
+C355,Active,Other
+C356,Churned,Other
+C357,Active,Competitor
+C358,Active,Competitor
+C359,Churned,Pricing
+C360,Churned,Service Quality
+C361,Active,Service Quality
+C362,Active,Competitor
+C363,Active,Competitor
+C364,Active,Pricing
+C365,Active,Service Quality
+C366,Churned,Pricing
+C367,Active,Pricing
+C368,Churned,Other
+C369,Churned,Pricing
+C370,Active,Competitor
+C371,Active,Competitor
+C372,Active,Competitor
+C373,Churned,Service Quality
+C374,Active,Other
+C375,Active,Pricing
+C376,Active,Pricing
+C377,Active,Other
+C378,Churned,Other
+C379,Active,Pricing
+C380,Churned,Competitor
+C381,Active,Pricing
+C382,Active,Service Quality
+C383,Active,Other
+C384,Active,Service Quality
+C385,Churned,Other
+C386,Active,Service Quality
+C387,Active,Service Quality
+C388,Active,Pricing
+C389,Churned,Competitor
+C390,Active,Other
+C391,Active,Other
+C392,Churned,Service Quality
+C393,Active,Service Quality
+C394,Active,Service Quality
+C395,Active,Pricing
+C396,Active,Other
+C397,Churned,Competitor
+C398,Active,Pricing
+C399,Active,Service Quality
+C400,Active,Service Quality
+C401,Active,Pricing
+C402,Active,Pricing
+C403,Active,Pricing
+C404,Active,Pricing
+C405,Churned,Competitor
+C406,Churned,Other
+C407,Active,Other
+C408,Churned,Competitor
+C409,Active,Competitor
+C410,Active,Service Quality
+C411,Churned,Pricing
+C412,Active,Service Quality
+C413,Active,Service Quality
+C414,Active,Service Quality
+C415,Active,Other
+C416,Active,Other
+C417,Active,Service Quality
+C418,Churned,Other
+C419,Active,Service Quality
+C420,Active,Service Quality
+C421,Active,Pricing
+C422,Active,Service Quality
+C423,Active,Competitor
+C424,Active,Competitor
+C425,Active,Service Quality
+C426,Active,Competitor
+C427,Active,Pricing
+C428,Active,Other
+C429,Active,Other
+C430,Active,Pricing
+C431,Active,Pricing
+C432,Churned,Pricing
+C433,Active,Other
+C434,Active,Competitor
+C435,Active,Pricing
+C436,Churned,Service Quality
+C437,Active,Other
+C438,Churned,Competitor
+C439,Active,Service Quality
+C440,Active,Other
+C441,Active,Service Quality
+C442,Active,Other
+C443,Active,Other
+C444,Active,Competitor
+C445,Active,Other
+C446,Active,Other
+C447,Active,Competitor
+C448,Active,Other
+C449,Churned,Service Quality
+C450,Active,Pricing
+C451,Churned,Competitor
+C452,Churned,Other
+C453,Active,Pricing
+C454,Active,Service Quality
+C455,Active,Pricing
+C456,Active,Competitor
+C457,Active,Service Quality
+C458,Active,Other
+C459,Active,Other
+C460,Active,Competitor
+C461,Active,Pricing
+C462,Active,Other
+C463,Active,Pricing
+C464,Active,Competitor
+C465,Active,Pricing
+C466,Churned,Pricing
+C467,Active,Pricing
+C468,Active,Other
+C469,Active,Pricing
+C470,Churned,Competitor
+C471,Active,Competitor
+C472,Active,Service Quality
+C473,Active,Competitor
+C474,Active,Other
+C475,Churned,Service Quality
+C476,Active,Service Quality
+C477,Churned,Other
+C478,Active,Competitor
+C479,Active,Pricing
+C480,Active,Service Quality
+C481,Active,Pricing
+C482,Active,Pricing
+C483,Active,Pricing
+C484,Active,Competitor
+C485,Churned,Service Quality
+C486,Active,Other
+C487,Active,Pricing
+C488,Active,Other
+C489,Active,Other
+C490,Active,Pricing
+C491,Active,Other
+C492,Active,Other
+C493,Active,Service Quality
+C494,Active,Other
+C495,Active,Pricing
+C496,Active,Other
+C497,Active,Other
+C498,Churned,Other
+C499,Active,Other
+C500,Active,Service Quality
+C501,Churned,Service Quality
+C502,Active,Other
+C503,Active,Competitor
+C504,Active,Competitor
+C505,Churned,Pricing
+C506,Active,Other
+C507,Active,Other
+C508,Active,Other
+C509,Active,Service Quality
+C510,Churned,Service Quality
+C511,Active,Competitor
+C512,Churned,Service Quality
+C513,Churned,Competitor
+C514,Active,Service Quality
+C515,Active,Service Quality
+C516,Active,Competitor
+C517,Active,Other
+C518,Active,Competitor
+C519,Active,Service Quality
+C520,Active,Competitor
+C521,Active,Service Quality
+C522,Active,Other
+C523,Churned,Pricing
+C524,Churned,Service Quality
+C525,Churned,Other
+C526,Active,Service Quality
+C527,Churned,Other
+C528,Active,Pricing
+C529,Active,Service Quality
+C530,Active,Pricing
+C531,Active,Pricing
+C532,Churned,Pricing
+C533,Active,Other
+C534,Active,Competitor
+C535,Active,Service Quality
+C536,Active,Other
+C537,Churned,Competitor
+C538,Churned,Service Quality
+C539,Active,Pricing
+C540,Active,Pricing
+C541,Active,Competitor
+C542,Active,Other
+C543,Active,Service Quality
+C544,Churned,Service Quality
+C545,Active,Service Quality
+C546,Active,Service Quality
+C547,Active,Competitor
+C548,Active,Service Quality
+C549,Active,Service Quality
+C550,Active,Pricing
+C551,Active,Other
+C552,Active,Other
+C553,Active,Other
+C554,Active,Service Quality
+C555,Churned,Competitor
+C556,Active,Competitor
+C557,Active,Other
+C558,Active,Competitor
+C559,Active,Competitor
+C560,Churned,Service Quality
+C561,Active,Service Quality
+C562,Active,Competitor
+C563,Active,Pricing
+C564,Active,Service Quality
+C565,Active,Other
+C566,Active,Other
+C567,Active,Other
+C568,Active,Pricing
+C569,Active,Other
+C570,Active,Service Quality
+C571,Churned,Service Quality
+C572,Active,Service Quality
+C573,Churned,Pricing
+C574,Active,Service Quality
+C575,Active,Service Quality
+C576,Active,Competitor
+C577,Active,Competitor
+C578,Active,Service Quality
+C579,Active,Other
+C580,Active,Service Quality
+C581,Churned,Competitor
+C582,Churned,Pricing
+C583,Active,Pricing
+C584,Active,Service Quality
+C585,Active,Other
+C586,Churned,Competitor
+C587,Active,Competitor
+C588,Active,Other
+C589,Active,Service Quality
+C590,Active,Pricing
+C591,Active,Service Quality
+C592,Active,Competitor
+C593,Active,Service Quality
+C594,Active,Competitor
+C595,Active,Other
+C596,Active,Service Quality
+C597,Churned,Pricing
+C598,Active,Pricing
+C599,Active,Other
+C600,Active,Competitor
+C601,Active,Service Quality
+C602,Active,Service Quality
+C603,Active,Competitor
+C604,Churned,Service Quality
+C605,Active,Pricing
+C606,Active,Other
+C607,Active,Pricing
+C608,Active,Other
+C609,Churned,Other
+C610,Churned,Other
+C611,Active,Competitor
+C612,Active,Pricing
+C613,Active,Competitor
+C614,Active,Other
+C615,Active,Other
+C616,Churned,Service Quality
+C617,Churned,Service Quality
+C618,Active,Service Quality
+C619,Active,Other
+C620,Churned,Pricing
+C621,Active,Competitor
+C622,Active,Pricing
+C623,Churned,Service Quality
+C624,Active,Other
+C625,Active,Other
+C626,Active,Service Quality
+C627,Active,Pricing
+C628,Active,Competitor
+C629,Active,Service Quality
+C630,Active,Other
+C631,Active,Competitor
+C632,Active,Service Quality
+C633,Active,Service Quality
+C634,Churned,Pricing
+C635,Active,Service Quality
+C636,Churned,Pricing
+C637,Active,Service Quality
+C638,Active,Service Quality
+C639,Active,Service Quality
+C640,Active,Other
+C641,Active,Other
+C642,Active,Service Quality
+C643,Active,Other
+C644,Active,Other
+C645,Churned,Pricing
+C646,Active,Pricing
+C647,Active,Service Quality
+C648,Active,Other
+C649,Churned,Pricing
+C650,Churned,Pricing
+C651,Churned,Other
+C652,Active,Service Quality
+C653,Active,Competitor
+C654,Churned,Competitor
+C655,Active,Competitor
+C656,Active,Other
+C657,Active,Competitor
+C658,Active,Service Quality
+C659,Churned,Service Quality
+C660,Active,Competitor
+C661,Churned,Service Quality
+C662,Churned,Other
+C663,Active,Service Quality
+C664,Active,Service Quality
+C665,Active,Pricing
+C666,Active,Other
+C667,Active,Pricing
+C668,Active,Pricing
+C669,Active,Service Quality
+C670,Active,Competitor
+C671,Active,Competitor
+C672,Active,Pricing
+C673,Active,Other
+C674,Active,Service Quality
+C675,Active,Pricing
+C676,Active,Competitor
+C677,Active,Competitor
+C678,Churned,Service Quality
+C679,Active,Pricing
+C680,Active,Other
+C681,Active,Competitor
+C682,Active,Other
+C683,Churned,Service Quality
+C684,Active,Competitor
+C685,Active,Other
+C686,Active,Service Quality
+C687,Active,Other
+C688,Active,Service Quality
+C689,Active,Competitor
+C690,Churned,Other
+C691,Active,Service Quality
+C692,Active,Pricing
+C693,Active,Competitor
+C694,Active,Service Quality
+C695,Churned,Competitor
+C696,Active,Other
+C697,Active,Pricing
+C698,Churned,Other
+C699,Active,Pricing
+C700,Active,Competitor
+C701,Active,Other
+C702,Active,Other
+C703,Churned,Other
+C704,Active,Service Quality
+C705,Churned,Pricing
+C706,Active,Other
+C707,Active,Other
+C708,Active,Service Quality
+C709,Active,Pricing
+C710,Active,Pricing
+C711,Churned,Other
+C712,Active,Competitor
+C713,Active,Other
+C714,Active,Other
+C715,Churned,Competitor
+C716,Churned,Competitor
+C717,Active,Pricing
+C718,Active,Other
+C719,Active,Pricing
+C720,Active,Service Quality
+C721,Active,Pricing
+C722,Active,Service Quality
+C723,Active,Pricing
+C724,Active,Pricing
+C725,Active,Pricing
+C726,Active,Competitor
+C727,Churned,Other
+C728,Active,Pricing
+C729,Churned,Other
+C730,Active,Service Quality
+C731,Active,Other
+C732,Active,Competitor
+C733,Churned,Competitor
+C734,Active,Service Quality
+C735,Active,Other
+C736,Active,Competitor
+C737,Active,Service Quality
+C738,Active,Competitor
+C739,Churned,Competitor
+C740,Active,Competitor
+C741,Active,Competitor
+C742,Active,Service Quality
+C743,Churned,Competitor
+C744,Active,Other
+C745,Active,Other
+C746,Active,Competitor
+C747,Active,Service Quality
+C748,Active,Pricing
+C749,Active,Competitor
+C750,Active,Pricing
+C751,Churned,Service Quality
+C752,Active,Pricing
+C753,Active,Service Quality
+C754,Active,Other
+C755,Active,Pricing
+C756,Active,Pricing
+C757,Active,Competitor
+C758,Active,Pricing
+C759,Churned,Other
+C760,Active,Other
+C761,Active,Service Quality
+C762,Active,Other
+C763,Active,Competitor
+C764,Churned,Other
+C765,Active,Pricing
+C766,Churned,Other
+C767,Active,Competitor
+C768,Active,Service Quality
+C769,Churned,Other
+C770,Active,Service Quality
+C771,Active,Competitor
+C772,Active,Competitor
+C773,Active,Pricing
+C774,Active,Other
+C775,Churned,Other
+C776,Active,Pricing
+C777,Churned,Pricing
+C778,Active,Service Quality
+C779,Active,Pricing
+C780,Churned,Pricing
+C781,Active,Other
+C782,Churned,Service Quality
+C783,Churned,Service Quality
+C784,Active,Other
+C785,Active,Service Quality
+C786,Active,Other
+C787,Active,Service Quality
+C788,Active,Service Quality
+C789,Active,Other
+C790,Active,Competitor
+C791,Active,Competitor
+C792,Churned,Competitor
+C793,Active,Pricing
+C794,Active,Competitor
+C795,Active,Other
+C796,Active,Other
+C797,Churned,Other
+C798,Active,Pricing
+C799,Active,Pricing
+C800,Active,Competitor
+C801,Churned,Pricing
+C802,Active,Other
+C803,Active,Pricing
+C804,Active,Competitor
+C805,Active,Service Quality
+C806,Churned,Pricing
+C807,Active,Other
+C808,Churned,Other
+C809,Active,Pricing
+C810,Active,Service Quality
+C811,Active,Other
+C812,Active,Pricing
+C813,Active,Service Quality
+C814,Active,Pricing
+C815,Active,Pricing
+C816,Active,Pricing
+C817,Active,Pricing
+C818,Churned,Service Quality
+C819,Active,Other
+C820,Active,Other
+C821,Active,Pricing
+C822,Active,Service Quality
+C823,Active,Other
+C824,Active,Other
+C825,Active,Pricing
+C826,Active,Competitor
+C827,Churned,Competitor
+C828,Active,Other
+C829,Active,Service Quality
+C830,Active,Competitor
+C831,Churned,Competitor
+C832,Active,Pricing
+C833,Active,Service Quality
+C834,Active,Other
+C835,Active,Service Quality
+C836,Active,Other
+C837,Active,Service Quality
+C838,Active,Pricing
+C839,Active,Other
+C840,Active,Other
+C841,Active,Competitor
+C842,Active,Competitor
+C843,Churned,Pricing
+C844,Active,Service Quality
+C845,Active,Service Quality
+C846,Churned,Service Quality
+C847,Active,Other
+C848,Active,Competitor
+C849,Active,Competitor
+C850,Active,Service Quality
+C851,Active,Competitor
+C852,Active,Pricing
+C853,Active,Competitor
+C854,Active,Service Quality
+C855,Active,Pricing
+C856,Active,Service Quality
+C857,Churned,Pricing
+C858,Active,Service Quality
+C859,Active,Service Quality
+C860,Active,Pricing
+C861,Active,Pricing
+C862,Active,Service Quality
+C863,Active,Service Quality
+C864,Active,Service Quality
+C865,Active,Competitor
+C866,Active,Service Quality
+C867,Churned,Competitor
+C868,Active,Service Quality
+C869,Active,Other
+C870,Churned,Other
+C871,Active,Competitor
+C872,Churned,Other
+C873,Churned,Pricing
+C874,Active,Other
+C875,Churned,Pricing
+C876,Churned,Pricing
+C877,Active,Other
+C878,Active,Pricing
+C879,Active,Service Quality
+C880,Churned,Competitor
+C881,Active,Other
+C882,Churned,Other
+C883,Active,Competitor
+C884,Active,Service Quality
+C885,Active,Service Quality
+C886,Active,Service Quality
+C887,Active,Service Quality
+C888,Active,Competitor
+C889,Churned,Service Quality
+C890,Active,Competitor
+C891,Churned,Service Quality
+C892,Active,Service Quality
+C893,Active,Other
+C894,Active,Service Quality
+C895,Churned,Other
+C896,Churned,Pricing
+C897,Churned,Service Quality
+C898,Active,Competitor
+C899,Active,Pricing
+C900,Active,Pricing
+C901,Active,Competitor
+C902,Active,Competitor
+C903,Churned,Other
+C904,Active,Pricing
+C905,Active,Service Quality
+C906,Active,Competitor
+C907,Active,Pricing
+C908,Active,Other
+C909,Active,Other
+C910,Active,Competitor
+C911,Active,Service Quality
+C912,Active,Pricing
+C913,Active,Competitor
+C914,Active,Pricing
+C915,Active,Competitor
+C916,Active,Competitor
+C917,Active,Service Quality
+C918,Active,Pricing
+C919,Churned,Competitor
+C920,Active,Other
+C921,Churned,Competitor
+C922,Active,Competitor
+C923,Active,Other
+C924,Active,Service Quality
+C925,Active,Other
+C926,Churned,Service Quality
+C927,Active,Service Quality
+C928,Churned,Competitor
+C929,Active,Other
+C930,Churned,Pricing
+C931,Active,Pricing
+C932,Active,Competitor
+C933,Active,Pricing
+C934,Active,Service Quality
+C935,Active,Service Quality
+C936,Active,Pricing
+C937,Active,Pricing
+C938,Active,Competitor
+C939,Active,Other
+C940,Active,Service Quality
+C941,Active,Other
+C942,Churned,Competitor
+C943,Active,Service Quality
+C944,Active,Pricing
+C945,Active,Competitor
+C946,Active,Service Quality
+C947,Active,Pricing
+C948,Active,Competitor
+C949,Churned,Competitor
+C950,Active,Other
+C951,Active,Other
+C952,Active,Pricing
+C953,Active,Pricing
+C954,Active,Service Quality
+C955,Active,Pricing
+C956,Active,Pricing
+C957,Active,Service Quality
+C958,Active,Other
+C959,Churned,Other
+C960,Active,Pricing
+C961,Active,Pricing
+C962,Active,Other
+C963,Churned,Competitor
+C964,Active,Other
+C965,Active,Other
+C966,Active,Other
+C967,Active,Pricing
+C968,Active,Service Quality
+C969,Active,Competitor
+C970,Active,Service Quality
+C971,Active,Other
+C972,Active,Service Quality
+C973,Churned,Other
+C974,Churned,Pricing
+C975,Active,Competitor
+C976,Active,Service Quality
+C977,Active,Pricing
+C978,Active,Service Quality
+C979,Churned,Service Quality
+C980,Active,Pricing
+C981,Active,Other
+C982,Active,Service Quality
+C983,Churned,Pricing
+C984,Active,Other
+C985,Active,Pricing
+C986,Active,Other
+C987,Active,Pricing
+C988,Churned,Other
+C989,Active,Pricing
+C990,Churned,Competitor
+C991,Active,Pricing
+C992,Active,Competitor
+C993,Churned,Other
+C994,Active,Other
+C995,Active,Other
+C996,Active,Other
+C997,Active,Pricing
+C998,Active,Competitor
+C999,Active,Competitor
+C1000,Active,Competitor
+C1001,Active,Competitor
+C1002,Active,Pricing
+C1003,Active,Service Quality
+C1004,Active,Service Quality
+C1005,Churned,Service Quality
+C1006,Active,Other
+C1007,Active,Competitor
+C1008,Active,Competitor
+C1009,Active,Other
+C1010,Active,Other
+C1011,Active,Pricing
+C1012,Active,Competitor
+C1013,Churned,Pricing
+C1014,Churned,Service Quality
+C1015,Active,Other
+C1016,Active,Pricing
+C1017,Active,Pricing
+C1018,Active,Other
+C1019,Churned,Pricing
+C1020,Active,Pricing
+C1021,Churned,Pricing
+C1022,Active,Service Quality
+C1023,Active,Competitor
+C1024,Active,Other
+C1025,Active,Pricing
+C1026,Churned,Other
+C1027,Active,Service Quality
+C1028,Churned,Pricing
+C1029,Active,Other
+C1030,Active,Pricing
+C1031,Active,Pricing
+C1032,Active,Service Quality
+C1033,Active,Service Quality
+C1034,Active,Other
+C1035,Active,Other
+C1036,Active,Competitor
+C1037,Active,Service Quality
+C1038,Churned,Other
+C1039,Active,Other
+C1040,Active,Other
+C1041,Churned,Service Quality
+C1042,Churned,Other
+C1043,Active,Service Quality
+C1044,Active,Competitor
+C1045,Active,Other
+C1046,Churned,Competitor
+C1047,Active,Service Quality
+C1048,Churned,Other
+C1049,Active,Competitor
+C1050,Active,Competitor
+C1051,Active,Competitor
+C1052,Active,Pricing
+C1053,Active,Other
+C1054,Churned,Other
+C1055,Active,Other
+C1056,Active,Pricing
+C1057,Churned,Service Quality
+C1058,Active,Pricing
+C1059,Active,Competitor
+C1060,Churned,Competitor
+C1061,Active,Other
+C1062,Active,Service Quality
+C1063,Active,Pricing
+C1064,Active,Other
+C1065,Churned,Other
+C1066,Active,Pricing
+C1067,Active,Competitor
+C1068,Active,Other
+C1069,Active,Pricing
+C1070,Churned,Competitor
+C1071,Active,Other
+C1072,Active,Competitor
+C1073,Churned,Competitor
+C1074,Active,Pricing
+C1075,Active,Competitor
+C1076,Active,Pricing
+C1077,Active,Service Quality
+C1078,Active,Other
+C1079,Active,Pricing
+C1080,Active,Competitor
+C1081,Churned,Other
+C1082,Active,Pricing
+C1083,Churned,Service Quality
+C1084,Active,Competitor
+C1085,Active,Service Quality
+C1086,Active,Other
+C1087,Churned,Service Quality
+C1088,Active,Competitor
+C1089,Active,Pricing
+C1090,Active,Pricing
+C1091,Active,Pricing
+C1092,Active,Pricing
+C1093,Active,Pricing
+C1094,Active,Service Quality
+C1095,Active,Pricing
+C1096,Churned,Service Quality
+C1097,Active,Other
+C1098,Active,Competitor
+C1099,Active,Competitor
+C1100,Active,Other
+C1101,Active,Competitor
+C1102,Active,Service Quality
+C1103,Active,Other
+C1104,Churned,Competitor
+C1105,Churned,Service Quality
+C1106,Active,Competitor
+C1107,Active,Other
+C1108,Active,Other
+C1109,Active,Other
+C1110,Active,Other
+C1111,Active,Service Quality
+C1112,Active,Pricing
+C1113,Active,Service Quality
+C1114,Active,Service Quality
+C1115,Active,Pricing
+C1116,Churned,Other
+C1117,Active,Competitor
+C1118,Active,Other
+C1119,Active,Competitor
+C1120,Active,Pricing
+C1121,Active,Other
+C1122,Active,Competitor
+C1123,Active,Other
+C1124,Active,Competitor
+C1125,Active,Other
+C1126,Active,Competitor
+C1127,Active,Pricing
+C1128,Active,Competitor
+C1129,Churned,Service Quality
+C1130,Churned,Service Quality
+C1131,Active,Pricing
+C1132,Active,Pricing
+C1133,Active,Competitor
+C1134,Active,Pricing
+C1135,Active,Pricing
+C1136,Active,Competitor
+C1137,Active,Service Quality
+C1138,Active,Pricing
+C1139,Active,Pricing
+C1140,Active,Service Quality
+C1141,Active,Service Quality
+C1142,Active,Pricing
+C1143,Active,Service Quality
+C1144,Active,Competitor
+C1145,Active,Pricing
+C1146,Active,Service Quality
+C1147,Active,Competitor
+C1148,Churned,Pricing
+C1149,Active,Service Quality
+C1150,Active,Service Quality
+C1151,Churned,Service Quality
+C1152,Active,Other
+C1153,Active,Pricing
+C1154,Active,Competitor
+C1155,Active,Other
+C1156,Active,Pricing
+C1157,Active,Other
+C1158,Active,Service Quality
+C1159,Active,Service Quality
+C1160,Active,Service Quality
+C1161,Churned,Competitor
+C1162,Churned,Competitor
+C1163,Active,Competitor
+C1164,Active,Competitor
+C1165,Active,Competitor
+C1166,Active,Other
+C1167,Churned,Competitor
+C1168,Active,Competitor
+C1169,Active,Competitor
+C1170,Active,Pricing
+C1171,Active,Competitor
+C1172,Active,Service Quality
+C1173,Active,Pricing
+C1174,Active,Other
+C1175,Active,Other
+C1176,Active,Service Quality
+C1177,Active,Competitor
+C1178,Active,Other
+C1179,Churned,Service Quality
+C1180,Active,Service Quality
+C1181,Active,Other
+C1182,Active,Other
+C1183,Churned,Pricing
+C1184,Churned,Service Quality
+C1185,Active,Service Quality
+C1186,Active,Other
+C1187,Active,Other
+C1188,Active,Pricing
+C1189,Active,Pricing
+C1190,Active,Service Quality
+C1191,Active,Service Quality
+C1192,Active,Competitor
+C1193,Active,Competitor
+C1194,Active,Other
+C1195,Churned,Other
+C1196,Active,Pricing
+C1197,Active,Other
+C1198,Active,Service Quality
+C1199,Churned,Other
+C1200,Churned,Pricing
+C1201,Active,Competitor
+C1202,Active,Service Quality
+C1203,Active,Pricing
+C1204,Active,Pricing
+C1205,Active,Competitor
+C1206,Churned,Pricing
+C1207,Active,Other
+C1208,Churned,Other
+C1209,Churned,Pricing
+C1210,Active,Pricing
+C1211,Active,Service Quality
+C1212,Active,Service Quality
+C1213,Active,Other
+C1214,Active,Pricing
+C1215,Active,Competitor
+C1216,Churned,Pricing
+C1217,Churned,Other
+C1218,Active,Pricing
+C1219,Active,Pricing
+C1220,Active,Other
+C1221,Active,Pricing
+C1222,Active,Pricing
+C1223,Active,Other
+C1224,Active,Service Quality
+C1225,Churned,Competitor
+C1226,Churned,Service Quality
+C1227,Active,Service Quality
+C1228,Active,Pricing
+C1229,Active,Other
+C1230,Active,Service Quality
+C1231,Active,Other
+C1232,Active,Pricing
+C1233,Active,Service Quality
+C1234,Active,Pricing
+C1235,Active,Service Quality
+C1236,Active,Service Quality
+C1237,Active,Other
+C1238,Active,Other
+C1239,Churned,Pricing
+C1240,Churned,Service Quality
+C1241,Churned,Competitor
+C1242,Active,Service Quality
+C1243,Active,Competitor
+C1244,Active,Competitor
+C1245,Active,Service Quality
+C1246,Active,Other
+C1247,Churned,Competitor
+C1248,Active,Competitor
+C1249,Active,Pricing
+C1250,Active,Service Quality
+C1251,Active,Other
+C1252,Active,Pricing
+C1253,Active,Other
+C1254,Active,Other
+C1255,Active,Service Quality
+C1256,Active,Competitor
+C1257,Active,Service Quality
+C1258,Active,Pricing
+C1259,Active,Pricing
+C1260,Active,Service Quality
+C1261,Active,Competitor
+C1262,Active,Pricing
+C1263,Churned,Other
+C1264,Active,Other
+C1265,Active,Other
+C1266,Active,Competitor
+C1267,Active,Pricing
+C1268,Active,Competitor
+C1269,Active,Competitor
+C1270,Active,Other
+C1271,Active,Competitor
+C1272,Active,Other
+C1273,Active,Other
+C1274,Active,Competitor
+C1275,Churned,Service Quality
+C1276,Active,Service Quality
+C1277,Active,Competitor
+C1278,Active,Competitor
+C1279,Active,Competitor
+C1280,Active,Other
+C1281,Active,Pricing
+C1282,Churned,Service Quality
+C1283,Active,Competitor
+C1284,Active,Other
+C1285,Active,Pricing
+C1286,Churned,Competitor
+C1287,Churned,Pricing
+C1288,Active,Service Quality
+C1289,Churned,Service Quality
+C1290,Churned,Service Quality
+C1291,Churned,Competitor
+C1292,Churned,Other
+C1293,Active,Other
+C1294,Active,Competitor
+C1295,Active,Other
+C1296,Active,Competitor
+C1297,Active,Competitor
+C1298,Active,Pricing
+C1299,Active,Service Quality
+C1300,Churned,Competitor
+C1301,Churned,Service Quality
+C1302,Active,Other
+C1303,Churned,Pricing
+C1304,Active,Pricing
+C1305,Active,Service Quality
+C1306,Active,Service Quality
+C1307,Active,Service Quality
+C1308,Active,Service Quality
+C1309,Churned,Competitor
+C1310,Active,Competitor
+C1311,Churned,Service Quality
+C1312,Active,Other
+C1313,Active,Competitor
+C1314,Churned,Competitor
+C1315,Active,Pricing
+C1316,Active,Pricing
+C1317,Active,Pricing
+C1318,Active,Other
+C1319,Active,Other
+C1320,Active,Service Quality
+C1321,Churned,Pricing
+C1322,Active,Service Quality
+C1323,Active,Pricing
+C1324,Active,Service Quality
+C1325,Churned,Service Quality
+C1326,Churned,Other
+C1327,Active,Pricing
+C1328,Active,Pricing
+C1329,Active,Service Quality
+C1330,Active,Other
+C1331,Churned,Competitor
+C1332,Churned,Service Quality
+C1333,Churned,Service Quality
+C1334,Churned,Pricing
+C1335,Active,Other
+C1336,Active,Other
+C1337,Active,Competitor
+C1338,Active,Other
+C1339,Churned,Competitor
+C1340,Active,Other
+C1341,Active,Pricing
+C1342,Active,Other
+C1343,Active,Pricing
+C1344,Active,Other
+C1345,Active,Other
+C1346,Active,Service Quality
+C1347,Churned,Competitor
+C1348,Active,Competitor
+C1349,Active,Competitor
+C1350,Churned,Other
+C1351,Active,Competitor
+C1352,Active,Competitor
+C1353,Active,Pricing
+C1354,Active,Other
+C1355,Active,Pricing
+C1356,Active,Service Quality
+C1357,Active,Other
+C1358,Churned,Pricing
+C1359,Active,Competitor
+C1360,Active,Service Quality
+C1361,Active,Service Quality
+C1362,Churned,Service Quality
+C1363,Active,Pricing
+C1364,Active,Other
+C1365,Active,Other
+C1366,Active,Other
+C1367,Active,Competitor
+C1368,Active,Competitor
+C1369,Active,Competitor
+C1370,Churned,Competitor
+C1371,Active,Other
+C1372,Active,Competitor
+C1373,Active,Pricing
+C1374,Active,Other
+C1375,Active,Competitor
+C1376,Active,Competitor
+C1377,Churned,Service Quality
+C1378,Active,Competitor
+C1379,Active,Competitor
+C1380,Active,Service Quality
+C1381,Active,Service Quality
+C1382,Active,Service Quality
+C1383,Active,Competitor
+C1384,Active,Service Quality
+C1385,Active,Competitor
+C1386,Active,Pricing
+C1387,Churned,Service Quality
+C1388,Active,Competitor
+C1389,Churned,Pricing
+C1390,Active,Other
+C1391,Churned,Other
+C1392,Churned,Other
+C1393,Churned,Competitor
+C1394,Churned,Other
+C1395,Churned,Service Quality
+C1396,Active,Other
+C1397,Active,Pricing
+C1398,Churned,Competitor
+C1399,Active,Competitor
+C1400,Active,Pricing
+C1401,Active,Other
+C1402,Active,Service Quality
+C1403,Active,Service Quality
+C1404,Churned,Competitor
+C1405,Active,Competitor
+C1406,Churned,Other
+C1407,Active,Other
+C1408,Active,Competitor
+C1409,Active,Service Quality
+C1410,Churned,Competitor
+C1411,Active,Competitor
+C1412,Active,Other
+C1413,Churned,Service Quality
+C1414,Active,Pricing
+C1415,Churned,Service Quality
+C1416,Active,Other
+C1417,Active,Other
+C1418,Active,Pricing
+C1419,Active,Service Quality
+C1420,Active,Service Quality
+C1421,Active,Service Quality
+C1422,Churned,Other
+C1423,Active,Other
+C1424,Active,Other
+C1425,Active,Competitor
+C1426,Churned,Other
+C1427,Active,Competitor
+C1428,Active,Pricing
+C1429,Churned,Other
+C1430,Active,Pricing
+C1431,Active,Competitor
+C1432,Active,Pricing
+C1433,Active,Service Quality
+C1434,Churned,Other
+C1435,Active,Pricing
+C1436,Churned,Competitor
+C1437,Active,Pricing
+C1438,Active,Pricing
+C1439,Active,Other
+C1440,Churned,Pricing
+C1441,Churned,Competitor
+C1442,Active,Competitor
+C1443,Churned,Pricing
+C1444,Active,Competitor
+C1445,Active,Other
+C1446,Active,Other
+C1447,Active,Pricing
+C1448,Active,Other
+C1449,Churned,Service Quality
+C1450,Active,Service Quality
+C1451,Active,Service Quality
+C1452,Active,Other
+C1453,Active,Competitor
+C1454,Churned,Service Quality
+C1455,Active,Service Quality
+C1456,Active,Other
+C1457,Active,Service Quality
+C1458,Active,Competitor
+C1459,Churned,Pricing
+C1460,Active,Other
+C1461,Active,Service Quality
+C1462,Active,Competitor
+C1463,Active,Service Quality
+C1464,Active,Pricing
+C1465,Active,Competitor
+C1466,Active,Pricing
+C1467,Active,Service Quality
+C1468,Active,Pricing
+C1469,Active,Other
+C1470,Active,Pricing
+C1471,Active,Pricing
+C1472,Active,Competitor
+C1473,Active,Service Quality
+C1474,Active,Competitor
+C1475,Churned,Other
+C1476,Active,Pricing
+C1477,Active,Pricing
+C1478,Active,Other
+C1479,Active,Competitor
+C1480,Churned,Other
+C1481,Active,Pricing
+C1482,Active,Other
+C1483,Active,Service Quality
+C1484,Churned,Pricing
+C1485,Churned,Pricing
+C1486,Active,Service Quality
+C1487,Active,Other
+C1488,Active,Other
+C1489,Active,Competitor
+C1490,Active,Service Quality
+C1491,Active,Other
+C1492,Active,Other
+C1493,Active,Service Quality
+C1494,Active,Service Quality
+C1495,Churned,Competitor
+C1496,Active,Competitor
+C1497,Churned,Other
+C1498,Active,Other
+C1499,Churned,Other
+C1500,Active,Pricing
+C1501,Active,Competitor
+C1502,Active,Other
+C1503,Active,Service Quality
+C1504,Active,Other
+C1505,Active,Pricing
+C1506,Active,Other
+C1507,Active,Competitor
+C1508,Active,Service Quality
+C1509,Active,Competitor
+C1510,Active,Competitor
+C1511,Active,Pricing
+C1512,Active,Pricing
+C1513,Active,Other
+C1514,Active,Other
+C1515,Active,Pricing
+C1516,Active,Service Quality
+C1517,Churned,Other
+C1518,Active,Competitor
+C1519,Active,Other
+C1520,Active,Competitor
+C1521,Active,Service Quality
+C1522,Active,Other
+C1523,Churned,Competitor
+C1524,Active,Pricing
+C1525,Churned,Competitor
+C1526,Active,Service Quality
+C1527,Active,Pricing
+C1528,Active,Competitor
+C1529,Active,Competitor
+C1530,Active,Pricing
+C1531,Active,Service Quality
+C1532,Active,Pricing
+C1533,Active,Other
+C1534,Active,Pricing
+C1535,Active,Pricing
+C1536,Active,Other
+C1537,Active,Service Quality
+C1538,Churned,Other
+C1539,Active,Pricing
+C1540,Active,Pricing
+C1541,Churned,Service Quality
+C1542,Active,Service Quality
+C1543,Active,Pricing
+C1544,Active,Competitor
+C1545,Churned,Competitor
+C1546,Active,Service Quality
+C1547,Active,Pricing
+C1548,Churned,Other
+C1549,Active,Service Quality
+C1550,Churned,Service Quality
+C1551,Active,Other
+C1552,Active,Service Quality
+C1553,Active,Competitor
+C1554,Active,Competitor
+C1555,Active,Competitor
+C1556,Active,Service Quality
+C1557,Active,Competitor
+C1558,Active,Competitor
+C1559,Active,Competitor
+C1560,Churned,Other
+C1561,Active,Pricing
+C1562,Active,Competitor
+C1563,Churned,Competitor
+C1564,Active,Competitor
+C1565,Active,Pricing
+C1566,Active,Competitor
+C1567,Active,Other
+C1568,Churned,Competitor
+C1569,Churned,Other
+C1570,Active,Competitor
+C1571,Active,Pricing
+C1572,Active,Pricing
+C1573,Active,Service Quality
+C1574,Active,Other
+C1575,Active,Competitor
+C1576,Active,Competitor
+C1577,Active,Other
+C1578,Churned,Service Quality
+C1579,Active,Service Quality
+C1580,Active,Other
+C1581,Active,Service Quality
+C1582,Active,Competitor
+C1583,Active,Service Quality
+C1584,Churned,Pricing
+C1585,Churned,Pricing
+C1586,Active,Competitor
+C1587,Churned,Competitor
+C1588,Churned,Competitor
+C1589,Active,Pricing
+C1590,Active,Other
+C1591,Churned,Pricing
+C1592,Churned,Service Quality
+C1593,Active,Other
+C1594,Churned,Other
+C1595,Churned,Competitor
+C1596,Churned,Competitor
+C1597,Active,Other
+C1598,Active,Pricing
+C1599,Active,Other
+C1600,Active,Service Quality
+C1601,Active,Competitor
+C1602,Churned,Other
+C1603,Active,Service Quality
+C1604,Active,Other
+C1605,Active,Competitor
+C1606,Active,Other
+C1607,Active,Pricing
+C1608,Active,Competitor
+C1609,Active,Competitor
+C1610,Active,Other
+C1611,Active,Pricing
+C1612,Active,Pricing
+C1613,Active,Pricing
+C1614,Churned,Pricing
+C1615,Active,Competitor
+C1616,Active,Other
+C1617,Churned,Other
+C1618,Active,Competitor
+C1619,Churned,Pricing
+C1620,Churned,Pricing
+C1621,Active,Pricing
+C1622,Active,Service Quality
+C1623,Active,Other
+C1624,Churned,Competitor
+C1625,Active,Other
+C1626,Active,Other
+C1627,Active,Pricing
+C1628,Active,Other
+C1629,Active,Service Quality
+C1630,Churned,Pricing
+C1631,Churned,Competitor
+C1632,Active,Pricing
+C1633,Churned,Competitor
+C1634,Active,Other
+C1635,Churned,Competitor
+C1636,Active,Service Quality
+C1637,Churned,Other
+C1638,Active,Service Quality
+C1639,Active,Other
+C1640,Active,Other
+C1641,Active,Service Quality
+C1642,Churned,Service Quality
+C1643,Churned,Other
+C1644,Active,Pricing
+C1645,Active,Pricing
+C1646,Active,Competitor
+C1647,Active,Pricing
+C1648,Active,Pricing
+C1649,Active,Pricing
+C1650,Active,Pricing
+C1651,Active,Competitor
+C1652,Active,Other
+C1653,Active,Competitor
+C1654,Active,Other
+C1655,Active,Pricing
+C1656,Active,Pricing
+C1657,Active,Other
+C1658,Churned,Pricing
+C1659,Active,Competitor
+C1660,Churned,Other
+C1661,Churned,Pricing
+C1662,Active,Service Quality
+C1663,Active,Competitor
+C1664,Active,Pricing
+C1665,Active,Other
+C1666,Active,Pricing
+C1667,Active,Pricing
+C1668,Active,Service Quality
+C1669,Churned,Service Quality
+C1670,Active,Other
+C1671,Active,Pricing
+C1672,Active,Service Quality
+C1673,Churned,Service Quality
+C1674,Active,Service Quality
+C1675,Active,Competitor
+C1676,Active,Pricing
+C1677,Active,Competitor
+C1678,Active,Competitor
+C1679,Active,Other
+C1680,Active,Competitor
+C1681,Active,Competitor
+C1682,Active,Other
+C1683,Active,Competitor
+C1684,Active,Other
+C1685,Active,Pricing
+C1686,Churned,Pricing
+C1687,Active,Other
+C1688,Active,Pricing
+C1689,Active,Pricing
+C1690,Churned,Pricing
+C1691,Active,Service Quality
+C1692,Active,Other
+C1693,Active,Pricing
+C1694,Active,Competitor
+C1695,Churned,Competitor
+C1696,Active,Pricing
+C1697,Active,Other
+C1698,Active,Other
+C1699,Active,Competitor
+C1700,Churned,Service Quality
+C1701,Active,Other
+C1702,Active,Pricing
+C1703,Active,Pricing
+C1704,Active,Service Quality
+C1705,Churned,Other
+C1706,Active,Service Quality
+C1707,Active,Other
+C1708,Churned,Pricing
+C1709,Active,Other
+C1710,Active,Other
+C1711,Churned,Pricing
+C1712,Churned,Other
+C1713,Active,Other
+C1714,Active,Pricing
+C1715,Active,Service Quality
+C1716,Active,Pricing
+C1717,Active,Pricing
+C1718,Churned,Service Quality
+C1719,Active,Service Quality
+C1720,Active,Other
+C1721,Churned,Service Quality
+C1722,Active,Competitor
+C1723,Active,Competitor
+C1724,Active,Competitor
+C1725,Active,Pricing
+C1726,Active,Pricing
+C1727,Active,Pricing
+C1728,Active,Other
+C1729,Churned,Service Quality
+C1730,Active,Competitor
+C1731,Active,Service Quality
+C1732,Active,Competitor
+C1733,Active,Service Quality
+C1734,Active,Competitor
+C1735,Active,Service Quality
+C1736,Active,Pricing
+C1737,Active,Pricing
+C1738,Churned,Pricing
+C1739,Active,Competitor
+C1740,Active,Competitor
+C1741,Active,Competitor
+C1742,Churned,Other
+C1743,Active,Competitor
+C1744,Active,Other
+C1745,Churned,Service Quality
+C1746,Active,Competitor
+C1747,Active,Competitor
+C1748,Active,Competitor
+C1749,Churned,Service Quality
+C1750,Active,Pricing
+C1751,Churned,Competitor
+C1752,Active,Other
+C1753,Active,Competitor
+C1754,Active,Other
+C1755,Active,Service Quality
+C1756,Active,Competitor
+C1757,Churned,Service Quality
+C1758,Active,Pricing
+C1759,Active,Service Quality
+C1760,Active,Other
+C1761,Churned,Competitor
+C1762,Active,Pricing
+C1763,Churned,Service Quality
+C1764,Active,Service Quality
+C1765,Churned,Service Quality
+C1766,Active,Service Quality
+C1767,Active,Service Quality
+C1768,Active,Pricing
+C1769,Active,Competitor
+C1770,Active,Other
+C1771,Active,Competitor
+C1772,Churned,Service Quality
+C1773,Active,Competitor
+C1774,Active,Competitor
+C1775,Active,Service Quality
+C1776,Active,Competitor
+C1777,Active,Other
+C1778,Churned,Service Quality
+C1779,Active,Service Quality
+C1780,Active,Pricing
+C1781,Churned,Service Quality
+C1782,Active,Service Quality
+C1783,Active,Competitor
+C1784,Active,Service Quality
+C1785,Active,Service Quality
+C1786,Churned,Pricing
+C1787,Active,Pricing
+C1788,Active,Other
+C1789,Active,Other
+C1790,Active,Service Quality
+C1791,Active,Pricing
+C1792,Active,Other
+C1793,Churned,Competitor
+C1794,Churned,Service Quality
+C1795,Active,Pricing
+C1796,Active,Other
+C1797,Churned,Pricing
+C1798,Active,Pricing
+C1799,Active,Service Quality
+C1800,Active,Pricing
+C1801,Active,Other
+C1802,Active,Pricing
+C1803,Active,Competitor
+C1804,Churned,Other
+C1805,Active,Competitor
+C1806,Active,Other
+C1807,Active,Other
+C1808,Churned,Other
+C1809,Active,Service Quality
+C1810,Active,Service Quality
+C1811,Active,Pricing
+C1812,Active,Service Quality
+C1813,Active,Other
+C1814,Active,Service Quality
+C1815,Active,Pricing
+C1816,Active,Competitor
+C1817,Active,Pricing
+C1818,Active,Pricing
+C1819,Active,Service Quality
+C1820,Churned,Service Quality
+C1821,Churned,Service Quality
+C1822,Active,Service Quality
+C1823,Active,Other
+C1824,Active,Service Quality
+C1825,Churned,Pricing
+C1826,Active,Competitor
+C1827,Active,Pricing
+C1828,Active,Other
+C1829,Active,Competitor
+C1830,Active,Competitor
+C1831,Active,Other
+C1832,Churned,Service Quality
+C1833,Churned,Service Quality
+C1834,Active,Pricing
+C1835,Active,Competitor
+C1836,Churned,Service Quality
+C1837,Active,Pricing
+C1838,Churned,Pricing
+C1839,Active,Competitor
+C1840,Churned,Competitor
+C1841,Active,Pricing
+C1842,Active,Competitor
+C1843,Active,Service Quality
+C1844,Active,Pricing
+C1845,Active,Other
+C1846,Active,Service Quality
+C1847,Churned,Competitor
+C1848,Churned,Other
+C1849,Active,Other
+C1850,Active,Other
+C1851,Active,Pricing
+C1852,Active,Other
+C1853,Active,Pricing
+C1854,Active,Competitor
+C1855,Active,Competitor
+C1856,Active,Pricing
+C1857,Active,Other
+C1858,Active,Competitor
+C1859,Active,Pricing
+C1860,Active,Other
+C1861,Churned,Pricing
+C1862,Active,Service Quality
+C1863,Active,Other
+C1864,Active,Pricing
+C1865,Active,Pricing
+C1866,Active,Service Quality
+C1867,Active,Pricing
+C1868,Churned,Other
+C1869,Active,Other
+C1870,Churned,Competitor
+C1871,Active,Service Quality
+C1872,Active,Service Quality
+C1873,Active,Competitor
+C1874,Active,Service Quality
+C1875,Active,Pricing
+C1876,Active,Pricing
+C1877,Active,Service Quality
+C1878,Active,Service Quality
+C1879,Active,Other
+C1880,Active,Other
+C1881,Active,Other
+C1882,Active,Service Quality
+C1883,Active,Pricing
+C1884,Active,Pricing
+C1885,Active,Pricing
+C1886,Active,Other
+C1887,Churned,Competitor
+C1888,Churned,Pricing
+C1889,Active,Competitor
+C1890,Active,Competitor
+C1891,Churned,Competitor
+C1892,Active,Service Quality
+C1893,Active,Service Quality
+C1894,Active,Service Quality
+C1895,Churned,Pricing
+C1896,Active,Competitor
+C1897,Active,Service Quality
+C1898,Active,Other
+C1899,Churned,Other
+C1900,Active,Competitor
+C1901,Active,Pricing
+C1902,Active,Other
+C1903,Active,Competitor
+C1904,Active,Other
+C1905,Active,Other
+C1906,Active,Competitor
+C1907,Active,Other
+C1908,Active,Service Quality
+C1909,Active,Competitor
+C1910,Active,Pricing
+C1911,Active,Competitor
+C1912,Active,Pricing
+C1913,Churned,Service Quality
+C1914,Active,Service Quality
+C1915,Churned,Service Quality
+C1916,Active,Competitor
+C1917,Churned,Competitor
+C1918,Active,Competitor
+C1919,Active,Pricing
+C1920,Active,Competitor
+C1921,Active,Pricing
+C1922,Churned,Service Quality
+C1923,Active,Service Quality
+C1924,Active,Competitor
+C1925,Active,Pricing
+C1926,Active,Other
+C1927,Active,Service Quality
+C1928,Churned,Competitor
+C1929,Active,Service Quality
+C1930,Churned,Competitor
+C1931,Active,Pricing
+C1932,Churned,Other
+C1933,Active,Pricing
+C1934,Churned,Service Quality
+C1935,Active,Competitor
+C1936,Active,Other
+C1937,Active,Service Quality
+C1938,Churned,Competitor
+C1939,Active,Service Quality
+C1940,Churned,Competitor
+C1941,Active,Pricing
+C1942,Active,Service Quality
+C1943,Churned,Other
+C1944,Churned,Pricing
+C1945,Active,Other
+C1946,Active,Other
+C1947,Active,Pricing
+C1948,Active,Pricing
+C1949,Active,Other
+C1950,Active,Other
+C1951,Active,Competitor
+C1952,Active,Competitor
+C1953,Active,Other
+C1954,Active,Competitor
+C1955,Active,Other
+C1956,Active,Other
+C1957,Churned,Service Quality
+C1958,Active,Competitor
+C1959,Active,Competitor
+C1960,Active,Competitor
+C1961,Active,Competitor
+C1962,Active,Pricing
+C1963,Active,Pricing
+C1964,Active,Competitor
+C1965,Active,Service Quality
+C1966,Active,Pricing
+C1967,Active,Competitor
+C1968,Active,Competitor
+C1969,Active,Other
+C1970,Active,Service Quality
+C1971,Active,Other
+C1972,Churned,Competitor
+C1973,Active,Competitor
+C1974,Churned,Pricing
+C1975,Active,Pricing
+C1976,Active,Pricing
+C1977,Active,Pricing
+C1978,Active,Other
+C1979,Active,Other
+C1980,Active,Service Quality
+C1981,Active,Competitor
+C1982,Active,Competitor
+C1983,Active,Competitor
+C1984,Active,Competitor
+C1985,Active,Competitor
+C1986,Churned,Pricing
+C1987,Active,Pricing
+C1988,Churned,Pricing
+C1989,Active,Pricing
+C1990,Active,Pricing
+C1991,Active,Service Quality
+C1992,Active,Competitor
+C1993,Active,Service Quality
+C1994,Churned,Service Quality
+C1995,Active,Other
+C1996,Active,Competitor
+C1997,Active,Service Quality
+C1998,Active,Competitor
+C1999,Active,Pricing
+C2000,Churned,Other
+C2001,Active,Competitor
+C2002,Active,Service Quality
+C2003,Active,Pricing
+C2004,Active,Pricing
+C2005,Active,Service Quality
+C2006,Active,Other
+C2007,Active,Other
+C2008,Active,Service Quality
+C2009,Churned,Other
+C2010,Active,Pricing
+C2011,Active,Service Quality
+C2012,Churned,Service Quality
+C2013,Active,Service Quality
+C2014,Churned,Pricing
+C2015,Churned,Other
+C2016,Active,Competitor
+C2017,Active,Service Quality
+C2018,Active,Other
+C2019,Active,Pricing
+C2020,Active,Pricing
+C2021,Active,Competitor
+C2022,Churned,Service Quality
+C2023,Churned,Service Quality
+C2024,Active,Service Quality
+C2025,Active,Service Quality
+C2026,Active,Pricing
+C2027,Active,Service Quality
+C2028,Active,Pricing
+C2029,Churned,Other
+C2030,Active,Pricing
+C2031,Active,Service Quality
+C2032,Active,Pricing
+C2033,Active,Pricing
+C2034,Active,Pricing
+C2035,Active,Pricing
+C2036,Active,Other
+C2037,Active,Pricing
+C2038,Active,Competitor
+C2039,Active,Pricing
+C2040,Churned,Pricing
+C2041,Churned,Other
+C2042,Active,Competitor
+C2043,Active,Other
+C2044,Active,Service Quality
+C2045,Churned,Pricing
+C2046,Churned,Other
+C2047,Active,Competitor
+C2048,Churned,Pricing
+C2049,Active,Other
+C2050,Active,Other
+C2051,Active,Other
+C2052,Active,Other
+C2053,Active,Other
+C2054,Active,Other
+C2055,Active,Pricing
+C2056,Churned,Pricing
+C2057,Active,Pricing
+C2058,Active,Service Quality
+C2059,Active,Pricing
+C2060,Active,Pricing
+C2061,Active,Competitor
+C2062,Active,Competitor
+C2063,Active,Pricing
+C2064,Active,Pricing
+C2065,Active,Pricing
+C2066,Active,Pricing
+C2067,Active,Service Quality
+C2068,Churned,Competitor
+C2069,Active,Competitor
+C2070,Active,Competitor
+C2071,Active,Service Quality
+C2072,Active,Service Quality
+C2073,Active,Competitor
+C2074,Active,Pricing
+C2075,Active,Competitor
+C2076,Active,Pricing
+C2077,Active,Competitor
+C2078,Active,Service Quality
+C2079,Active,Pricing
+C2080,Active,Competitor
+C2081,Active,Pricing
+C2082,Active,Pricing
+C2083,Churned,Competitor
+C2084,Active,Other
+C2085,Active,Service Quality
+C2086,Active,Pricing
+C2087,Churned,Pricing
+C2088,Active,Service Quality
+C2089,Active,Competitor
+C2090,Active,Other
+C2091,Active,Pricing
+C2092,Active,Other
+C2093,Active,Competitor
+C2094,Active,Pricing
+C2095,Active,Competitor
+C2096,Active,Other
+C2097,Active,Pricing
+C2098,Active,Service Quality
+C2099,Active,Other
+C2100,Active,Pricing
+C2101,Active,Pricing
+C2102,Churned,Competitor
+C2103,Active,Competitor
+C2104,Active,Pricing
+C2105,Churned,Competitor
+C2106,Active,Competitor
+C2107,Active,Service Quality
+C2108,Churned,Pricing
+C2109,Active,Other
+C2110,Active,Pricing
+C2111,Active,Service Quality
+C2112,Active,Service Quality
+C2113,Active,Competitor
+C2114,Active,Competitor
+C2115,Active,Service Quality
+C2116,Active,Competitor
+C2117,Active,Competitor
+C2118,Active,Other
+C2119,Active,Competitor
+C2120,Active,Other
+C2121,Active,Competitor
+C2122,Churned,Competitor
+C2123,Churned,Pricing
+C2124,Active,Other
+C2125,Churned,Pricing
+C2126,Active,Competitor
+C2127,Churned,Service Quality
+C2128,Churned,Competitor
+C2129,Active,Pricing
+C2130,Active,Service Quality
+C2131,Active,Pricing
+C2132,Active,Other
+C2133,Active,Pricing
+C2134,Churned,Competitor
+C2135,Active,Competitor
+C2136,Churned,Other
+C2137,Active,Service Quality
+C2138,Active,Service Quality
+C2139,Churned,Pricing
+C2140,Active,Competitor
+C2141,Active,Service Quality
+C2142,Active,Competitor
+C2143,Churned,Service Quality
+C2144,Active,Service Quality
+C2145,Churned,Competitor
+C2146,Churned,Pricing
+C2147,Churned,Other
+C2148,Churned,Competitor
+C2149,Active,Other
+C2150,Active,Other
+C2151,Active,Pricing
+C2152,Active,Pricing
+C2153,Active,Pricing
+C2154,Active,Competitor
+C2155,Churned,Service Quality
+C2156,Active,Service Quality
+C2157,Active,Service Quality
+C2158,Active,Service Quality
+C2159,Churned,Pricing
+C2160,Churned,Service Quality
+C2161,Active,Pricing
+C2162,Active,Service Quality
+C2163,Active,Other
+C2164,Churned,Pricing
+C2165,Churned,Competitor
+C2166,Active,Pricing
+C2167,Churned,Competitor
+C2168,Active,Competitor
+C2169,Active,Service Quality
+C2170,Active,Other
+C2171,Active,Other
+C2172,Active,Pricing
+C2173,Active,Competitor
+C2174,Churned,Service Quality
+C2175,Active,Service Quality
+C2176,Active,Competitor
+C2177,Active,Service Quality
+C2178,Churned,Competitor
+C2179,Active,Other
+C2180,Churned,Service Quality
+C2181,Active,Pricing
+C2182,Churned,Pricing
+C2183,Active,Pricing
+C2184,Active,Pricing
+C2185,Active,Other
+C2186,Active,Other
+C2187,Churned,Service Quality
+C2188,Active,Service Quality
+C2189,Active,Service Quality
+C2190,Active,Competitor
+C2191,Churned,Pricing
+C2192,Active,Other
+C2193,Active,Competitor
+C2194,Active,Competitor
+C2195,Churned,Service Quality
+C2196,Active,Other
+C2197,Active,Other
+C2198,Active,Service Quality
+C2199,Active,Competitor
+C2200,Active,Service Quality
+C2201,Churned,Service Quality
+C2202,Active,Service Quality
+C2203,Active,Other
+C2204,Churned,Competitor
+C2205,Active,Competitor
+C2206,Active,Service Quality
+C2207,Active,Competitor
+C2208,Active,Service Quality
+C2209,Churned,Other
+C2210,Churned,Service Quality
+C2211,Active,Competitor
+C2212,Active,Competitor
+C2213,Active,Competitor
+C2214,Active,Pricing
+C2215,Active,Competitor
+C2216,Active,Service Quality
+C2217,Active,Service Quality
+C2218,Churned,Service Quality
+C2219,Churned,Competitor
+C2220,Active,Service Quality
+C2221,Active,Other
+C2222,Active,Pricing
+C2223,Active,Pricing
+C2224,Active,Other
+C2225,Churned,Pricing
+C2226,Active,Competitor
+C2227,Active,Pricing
+C2228,Active,Other
+C2229,Active,Service Quality
+C2230,Active,Service Quality
+C2231,Active,Pricing
+C2232,Active,Pricing
+C2233,Active,Pricing
+C2234,Active,Service Quality
+C2235,Active,Pricing
+C2236,Active,Other
+C2237,Active,Other
+C2238,Active,Other
+C2239,Active,Pricing
+C2240,Active,Competitor
+C2241,Active,Service Quality
+C2242,Active,Competitor
+C2243,Churned,Competitor
+C2244,Active,Competitor
+C2245,Active,Pricing
+C2246,Churned,Service Quality
+C2247,Active,Service Quality
+C2248,Churned,Other
+C2249,Active,Service Quality
+C2250,Active,Other
+C2251,Active,Competitor
+C2252,Active,Other
+C2253,Active,Pricing
+C2254,Active,Other
+C2255,Active,Service Quality
+C2256,Active,Competitor
+C2257,Active,Other
+C2258,Churned,Service Quality
+C2259,Active,Competitor
+C2260,Active,Competitor
+C2261,Churned,Competitor
+C2262,Active,Pricing
+C2263,Active,Other
+C2264,Churned,Competitor
+C2265,Active,Service Quality
+C2266,Active,Service Quality
+C2267,Active,Service Quality
+C2268,Churned,Competitor
+C2269,Active,Service Quality
+C2270,Churned,Competitor
+C2271,Active,Other
+C2272,Active,Competitor
+C2273,Active,Other
+C2274,Churned,Other
+C2275,Active,Service Quality
+C2276,Active,Other
+C2277,Active,Service Quality
+C2278,Active,Competitor
+C2279,Active,Other
+C2280,Active,Pricing
+C2281,Active,Competitor
+C2282,Active,Pricing
+C2283,Active,Pricing
+C2284,Active,Service Quality
+C2285,Active,Service Quality
+C2286,Active,Competitor
+C2287,Churned,Other
+C2288,Active,Other
+C2289,Churned,Competitor
+C2290,Churned,Competitor
+C2291,Churned,Service Quality
+C2292,Active,Service Quality
+C2293,Churned,Other
+C2294,Active,Service Quality
+C2295,Active,Competitor
+C2296,Active,Other
+C2297,Active,Other
+C2298,Active,Pricing
+C2299,Active,Other
+C2300,Active,Service Quality
+C2301,Churned,Service Quality
+C2302,Active,Pricing
+C2303,Active,Pricing
+C2304,Churned,Competitor
+C2305,Active,Other
+C2306,Active,Pricing
+C2307,Active,Service Quality
+C2308,Churned,Other
+C2309,Active,Pricing
+C2310,Churned,Service Quality
+C2311,Active,Other
+C2312,Active,Competitor
+C2313,Active,Pricing
+C2314,Churned,Service Quality
+C2315,Active,Pricing
+C2316,Active,Other
+C2317,Active,Service Quality
+C2318,Active,Other
+C2319,Active,Competitor
+C2320,Active,Competitor
+C2321,Active,Pricing
+C2322,Active,Other
+C2323,Active,Pricing
+C2324,Active,Pricing
+C2325,Active,Service Quality
+C2326,Churned,Pricing
+C2327,Churned,Service Quality
+C2328,Active,Service Quality
+C2329,Active,Competitor
+C2330,Churned,Other
+C2331,Active,Service Quality
+C2332,Active,Other
+C2333,Churned,Competitor
+C2334,Active,Pricing
+C2335,Active,Competitor
+C2336,Active,Other
+C2337,Active,Service Quality
+C2338,Active,Other
+C2339,Active,Service Quality
+C2340,Active,Competitor
+C2341,Churned,Competitor
+C2342,Active,Competitor
+C2343,Churned,Pricing
+C2344,Active,Service Quality
+C2345,Active,Pricing
+C2346,Active,Pricing
+C2347,Active,Competitor
+C2348,Active,Other
+C2349,Churned,Pricing
+C2350,Active,Service Quality
+C2351,Active,Other
+C2352,Churned,Pricing
+C2353,Active,Service Quality
+C2354,Active,Competitor
+C2355,Active,Other
+C2356,Active,Service Quality
+C2357,Active,Competitor
+C2358,Active,Other
+C2359,Active,Pricing
+C2360,Churned,Other
+C2361,Active,Service Quality
+C2362,Active,Service Quality
+C2363,Active,Other
+C2364,Active,Competitor
+C2365,Active,Service Quality
+C2366,Active,Pricing
+C2367,Active,Other
+C2368,Active,Other
+C2369,Active,Other
+C2370,Active,Pricing
+C2371,Active,Service Quality
+C2372,Active,Service Quality
+C2373,Active,Service Quality
+C2374,Active,Other
+C2375,Active,Other
+C2376,Active,Other
+C2377,Active,Service Quality
+C2378,Active,Pricing
+C2379,Active,Service Quality
+C2380,Active,Competitor
+C2381,Churned,Service Quality
+C2382,Churned,Service Quality
+C2383,Active,Other
+C2384,Churned,Pricing
+C2385,Active,Competitor
+C2386,Churned,Service Quality
+C2387,Churned,Pricing
+C2388,Active,Pricing
+C2389,Active,Competitor
+C2390,Active,Service Quality
+C2391,Active,Pricing
+C2392,Active,Other
+C2393,Churned,Other
+C2394,Active,Other
+C2395,Active,Other
+C2396,Churned,Competitor
+C2397,Active,Other
+C2398,Churned,Competitor
+C2399,Churned,Other
+C2400,Active,Pricing
+C2401,Active,Pricing
+C2402,Churned,Other
+C2403,Active,Pricing
+C2404,Active,Other
+C2405,Churned,Service Quality
+C2406,Active,Service Quality
+C2407,Active,Pricing
+C2408,Active,Competitor
+C2409,Active,Service Quality
+C2410,Active,Competitor
+C2411,Active,Pricing
+C2412,Churned,Service Quality
+C2413,Active,Competitor
+C2414,Churned,Service Quality
+C2415,Churned,Other
+C2416,Active,Competitor
+C2417,Active,Competitor
+C2418,Active,Other
+C2419,Active,Service Quality
+C2420,Active,Competitor
+C2421,Active,Pricing
+C2422,Churned,Pricing
+C2423,Churned,Pricing
+C2424,Active,Other
+C2425,Active,Service Quality
+C2426,Active,Other
+C2427,Active,Pricing
+C2428,Active,Pricing
+C2429,Active,Pricing
+C2430,Churned,Other
+C2431,Active,Other
+C2432,Active,Service Quality
+C2433,Active,Pricing
+C2434,Active,Pricing
+C2435,Active,Other
+C2436,Active,Pricing
+C2437,Active,Service Quality
+C2438,Churned,Other
+C2439,Active,Service Quality
+C2440,Active,Service Quality
+C2441,Active,Competitor
+C2442,Active,Other
+C2443,Active,Pricing
+C2444,Active,Service Quality
+C2445,Active,Competitor
+C2446,Active,Pricing
+C2447,Churned,Service Quality
+C2448,Active,Competitor
+C2449,Active,Pricing
+C2450,Active,Service Quality
+C2451,Active,Service Quality
+C2452,Active,Service Quality
+C2453,Active,Competitor
+C2454,Active,Competitor
+C2455,Active,Pricing
+C2456,Active,Pricing
+C2457,Active,Competitor
+C2458,Churned,Other
+C2459,Active,Competitor
+C2460,Churned,Other
+C2461,Active,Other
+C2462,Active,Pricing
+C2463,Active,Service Quality
+C2464,Churned,Other
+C2465,Active,Service Quality
+C2466,Active,Pricing
+C2467,Active,Competitor
+C2468,Active,Competitor
+C2469,Active,Other
+C2470,Active,Pricing
+C2471,Active,Service Quality
+C2472,Active,Other
+C2473,Active,Service Quality
+C2474,Active,Service Quality
+C2475,Active,Service Quality
+C2476,Active,Pricing
+C2477,Active,Service Quality
+C2478,Active,Service Quality
+C2479,Active,Pricing
+C2480,Active,Competitor
+C2481,Churned,Pricing
+C2482,Active,Competitor
+C2483,Active,Pricing
+C2484,Active,Other
+C2485,Active,Service Quality
+C2486,Active,Competitor
+C2487,Active,Service Quality
+C2488,Churned,Pricing
+C2489,Active,Competitor
+C2490,Churned,Pricing
+C2491,Churned,Other
+C2492,Active,Other
+C2493,Active,Service Quality
+C2494,Active,Pricing
+C2495,Churned,Competitor
+C2496,Active,Pricing
+C2497,Active,Other
+C2498,Active,Competitor
+C2499,Active,Competitor
+C2500,Churned,Other
+C2501,Churned,Other
+C2502,Active,Service Quality
+C2503,Active,Competitor
+C2504,Active,Other
+C2505,Active,Service Quality
+C2506,Churned,Service Quality
+C2507,Active,Pricing
+C2508,Active,Pricing
+C2509,Active,Service Quality
+C2510,Churned,Other
+C2511,Active,Pricing
+C2512,Active,Other
+C2513,Churned,Other
+C2514,Active,Other
+C2515,Active,Service Quality
+C2516,Active,Pricing
+C2517,Active,Other
+C2518,Active,Service Quality
+C2519,Active,Pricing
+C2520,Active,Service Quality
+C2521,Active,Other
+C2522,Active,Pricing
+C2523,Active,Pricing
+C2524,Active,Pricing
+C2525,Active,Pricing
+C2526,Active,Other
+C2527,Active,Service Quality
+C2528,Active,Other
+C2529,Active,Other
+C2530,Active,Pricing
+C2531,Active,Competitor
+C2532,Active,Pricing
+C2533,Active,Service Quality
+C2534,Active,Service Quality
+C2535,Active,Competitor
+C2536,Churned,Competitor
+C2537,Active,Pricing
+C2538,Active,Other
+C2539,Active,Service Quality
+C2540,Active,Pricing
+C2541,Active,Other
+C2542,Active,Pricing
+C2543,Active,Competitor
+C2544,Active,Pricing
+C2545,Active,Competitor
+C2546,Active,Competitor
+C2547,Active,Competitor
+C2548,Active,Service Quality
+C2549,Churned,Other
+C2550,Active,Other
+C2551,Active,Pricing
+C2552,Churned,Pricing
+C2553,Active,Pricing
+C2554,Active,Service Quality
+C2555,Active,Service Quality
+C2556,Active,Competitor
+C2557,Churned,Service Quality
+C2558,Churned,Service Quality
+C2559,Churned,Other
+C2560,Churned,Competitor
+C2561,Active,Competitor
+C2562,Active,Service Quality
+C2563,Active,Competitor
+C2564,Active,Service Quality
+C2565,Churned,Competitor
+C2566,Active,Service Quality
+C2567,Active,Service Quality
+C2568,Active,Pricing
+C2569,Active,Other
+C2570,Active,Competitor
+C2571,Churned,Service Quality
+C2572,Active,Competitor
+C2573,Active,Other
+C2574,Active,Competitor
+C2575,Active,Other
+C2576,Active,Competitor
+C2577,Active,Other
+C2578,Active,Pricing
+C2579,Active,Service Quality
+C2580,Active,Other
+C2581,Active,Service Quality
+C2582,Active,Competitor
+C2583,Active,Service Quality
+C2584,Active,Other
+C2585,Active,Pricing
+C2586,Churned,Competitor
+C2587,Active,Competitor
+C2588,Active,Pricing
+C2589,Active,Service Quality
+C2590,Active,Other
+C2591,Active,Competitor
+C2592,Active,Other
+C2593,Active,Pricing
+C2594,Active,Competitor
+C2595,Churned,Service Quality
+C2596,Active,Pricing
+C2597,Active,Other
+C2598,Active,Service Quality
+C2599,Active,Service Quality
+C2600,Churned,Service Quality
+C2601,Churned,Competitor
+C2602,Churned,Pricing
+C2603,Active,Competitor
+C2604,Active,Service Quality
+C2605,Active,Other
+C2606,Active,Pricing
+C2607,Active,Other
+C2608,Active,Other
+C2609,Active,Pricing
+C2610,Churned,Pricing
+C2611,Active,Other
+C2612,Active,Other
+C2613,Active,Service Quality
+C2614,Churned,Pricing
+C2615,Active,Competitor
+C2616,Active,Other
+C2617,Active,Other
+C2618,Active,Other
+C2619,Active,Pricing
+C2620,Active,Other
+C2621,Active,Service Quality
+C2622,Active,Other
+C2623,Churned,Service Quality
+C2624,Active,Pricing
+C2625,Active,Pricing
+C2626,Active,Competitor
+C2627,Churned,Other
+C2628,Active,Pricing
+C2629,Active,Service Quality
+C2630,Active,Competitor
+C2631,Active,Pricing
+C2632,Active,Pricing
+C2633,Active,Other
+C2634,Active,Service Quality
+C2635,Churned,Competitor
+C2636,Active,Other
+C2637,Active,Service Quality
+C2638,Active,Other
+C2639,Active,Other
+C2640,Active,Service Quality
+C2641,Churned,Service Quality
+C2642,Active,Competitor
+C2643,Active,Pricing
+C2644,Active,Other
+C2645,Active,Service Quality
+C2646,Churned,Other
+C2647,Active,Competitor
+C2648,Churned,Competitor
+C2649,Active,Other
+C2650,Active,Service Quality
+C2651,Active,Competitor
+C2652,Active,Competitor
+C2653,Active,Competitor
+C2654,Active,Other
+C2655,Active,Pricing
+C2656,Active,Competitor
+C2657,Churned,Pricing
+C2658,Active,Service Quality
+C2659,Active,Competitor
+C2660,Active,Pricing
+C2661,Active,Pricing
+C2662,Churned,Other
+C2663,Active,Other
+C2664,Active,Service Quality
+C2665,Active,Competitor
+C2666,Churned,Competitor
+C2667,Active,Competitor
+C2668,Active,Competitor
+C2669,Active,Other
+C2670,Active,Competitor
+C2671,Active,Service Quality
+C2672,Active,Pricing
+C2673,Active,Other
+C2674,Active,Service Quality
+C2675,Active,Pricing
+C2676,Active,Other
+C2677,Active,Service Quality
+C2678,Active,Other
+C2679,Active,Other
+C2680,Churned,Other
+C2681,Active,Service Quality
+C2682,Active,Competitor
+C2683,Active,Pricing
+C2684,Active,Service Quality
+C2685,Active,Pricing
+C2686,Active,Other
+C2687,Churned,Other
+C2688,Churned,Other
+C2689,Active,Other
+C2690,Active,Other
+C2691,Active,Other
+C2692,Active,Competitor
+C2693,Active,Pricing
+C2694,Active,Competitor
+C2695,Churned,Pricing
+C2696,Active,Pricing
+C2697,Active,Service Quality
+C2698,Active,Other
+C2699,Active,Pricing
+C2700,Churned,Pricing
+C2701,Active,Competitor
+C2702,Churned,Other
+C2703,Churned,Competitor
+C2704,Churned,Service Quality
+C2705,Active,Other
+C2706,Churned,Other
+C2707,Active,Competitor
+C2708,Active,Service Quality
+C2709,Active,Other
+C2710,Churned,Service Quality
+C2711,Churned,Pricing
+C2712,Churned,Pricing
+C2713,Churned,Service Quality
+C2714,Active,Pricing
+C2715,Churned,Other
+C2716,Active,Pricing
+C2717,Active,Other
+C2718,Active,Pricing
+C2719,Active,Competitor
+C2720,Active,Competitor
+C2721,Active,Other
+C2722,Active,Other
+C2723,Active,Pricing
+C2724,Active,Competitor
+C2725,Churned,Pricing
+C2726,Active,Service Quality
+C2727,Churned,Competitor
+C2728,Active,Competitor
+C2729,Churned,Service Quality
+C2730,Churned,Pricing
+C2731,Active,Pricing
+C2732,Active,Competitor
+C2733,Active,Pricing
+C2734,Active,Service Quality
+C2735,Churned,Other
+C2736,Active,Pricing
+C2737,Active,Other
+C2738,Churned,Competitor
+C2739,Active,Other
+C2740,Active,Service Quality
+C2741,Churned,Service Quality
+C2742,Active,Service Quality
+C2743,Churned,Pricing
+C2744,Active,Service Quality
+C2745,Active,Other
+C2746,Active,Other
+C2747,Active,Competitor
+C2748,Churned,Competitor
+C2749,Active,Other
+C2750,Active,Service Quality
+C2751,Active,Other
+C2752,Churned,Pricing
+C2753,Active,Service Quality
+C2754,Active,Pricing
+C2755,Active,Competitor
+C2756,Churned,Service Quality
+C2757,Active,Pricing
+C2758,Active,Competitor
+C2759,Active,Pricing
+C2760,Active,Service Quality
+C2761,Active,Pricing
+C2762,Active,Competitor
+C2763,Churned,Competitor
+C2764,Active,Pricing
+C2765,Active,Other
+C2766,Active,Pricing
+C2767,Active,Other
+C2768,Active,Pricing
+C2769,Active,Other
+C2770,Active,Service Quality
+C2771,Active,Competitor
+C2772,Churned,Other
+C2773,Churned,Other
+C2774,Active,Other
+C2775,Active,Competitor
+C2776,Active,Pricing
+C2777,Churned,Pricing
+C2778,Active,Service Quality
+C2779,Active,Other
+C2780,Active,Pricing
+C2781,Churned,Competitor
+C2782,Churned,Service Quality
+C2783,Active,Competitor
+C2784,Active,Service Quality
+C2785,Active,Service Quality
+C2786,Active,Pricing
+C2787,Churned,Other
+C2788,Active,Other
+C2789,Active,Service Quality
+C2790,Churned,Service Quality
+C2791,Active,Pricing
+C2792,Churned,Service Quality
+C2793,Active,Pricing
+C2794,Active,Service Quality
+C2795,Churned,Service Quality
+C2796,Churned,Other
+C2797,Active,Other
+C2798,Active,Competitor
+C2799,Churned,Pricing
+C2800,Active,Competitor
+C2801,Active,Pricing
+C2802,Churned,Competitor
+C2803,Active,Pricing
+C2804,Active,Service Quality
+C2805,Churned,Other
+C2806,Active,Competitor
+C2807,Active,Competitor
+C2808,Active,Competitor
+C2809,Active,Competitor
+C2810,Churned,Service Quality
+C2811,Churned,Service Quality
+C2812,Active,Pricing
+C2813,Active,Competitor
+C2814,Active,Service Quality
+C2815,Active,Service Quality
+C2816,Churned,Other
+C2817,Active,Competitor
+C2818,Active,Other
+C2819,Active,Service Quality
+C2820,Active,Other
+C2821,Active,Competitor
+C2822,Churned,Pricing
+C2823,Churned,Other
+C2824,Churned,Service Quality
+C2825,Churned,Pricing
+C2826,Churned,Service Quality
+C2827,Churned,Service Quality
+C2828,Active,Service Quality
+C2829,Churned,Competitor
+C2830,Active,Other
+C2831,Active,Other
+C2832,Active,Pricing
+C2833,Churned,Other
+C2834,Active,Pricing
+C2835,Active,Competitor
+C2836,Active,Other
+C2837,Churned,Other
+C2838,Churned,Other
+C2839,Active,Other
+C2840,Active,Pricing
+C2841,Active,Other
+C2842,Active,Other
+C2843,Active,Other
+C2844,Churned,Other
+C2845,Active,Competitor
+C2846,Active,Competitor
+C2847,Active,Competitor
+C2848,Active,Pricing
+C2849,Active,Pricing
+C2850,Churned,Pricing
+C2851,Active,Service Quality
+C2852,Churned,Service Quality
+C2853,Active,Competitor
+C2854,Active,Pricing
+C2855,Active,Other
+C2856,Active,Service Quality
+C2857,Active,Service Quality
+C2858,Active,Competitor
+C2859,Active,Other
+C2860,Active,Competitor
+C2861,Churned,Service Quality
+C2862,Active,Service Quality
+C2863,Active,Competitor
+C2864,Churned,Competitor
+C2865,Active,Competitor
+C2866,Active,Service Quality
+C2867,Active,Pricing
+C2868,Churned,Competitor
+C2869,Active,Pricing
+C2870,Active,Service Quality
+C2871,Active,Competitor
+C2872,Active,Pricing
+C2873,Churned,Pricing
+C2874,Active,Other
+C2875,Churned,Pricing
+C2876,Active,Service Quality
+C2877,Churned,Pricing
+C2878,Active,Pricing
+C2879,Active,Service Quality
+C2880,Active,Pricing
+C2881,Churned,Competitor
+C2882,Active,Competitor
+C2883,Churned,Pricing
+C2884,Active,Pricing
+C2885,Churned,Service Quality
+C2886,Active,Competitor
+C2887,Active,Pricing
+C2888,Active,Competitor
+C2889,Churned,Service Quality
+C2890,Active,Pricing
+C2891,Active,Service Quality
+C2892,Active,Other
+C2893,Active,Competitor
+C2894,Active,Competitor
+C2895,Active,Competitor
+C2896,Active,Competitor
+C2897,Active,Pricing
+C2898,Active,Competitor
+C2899,Active,Pricing
+C2900,Active,Competitor
+C2901,Active,Pricing
+C2902,Active,Pricing
+C2903,Active,Competitor
+C2904,Active,Competitor
+C2905,Active,Pricing
+C2906,Active,Pricing
+C2907,Active,Pricing
+C2908,Churned,Service Quality
+C2909,Churned,Service Quality
+C2910,Active,Other
+C2911,Active,Other
+C2912,Active,Pricing
+C2913,Active,Other
+C2914,Active,Competitor
+C2915,Churned,Pricing
+C2916,Churned,Pricing
+C2917,Active,Competitor
+C2918,Active,Service Quality
+C2919,Active,Competitor
+C2920,Churned,Competitor
+C2921,Active,Pricing
+C2922,Active,Competitor
+C2923,Active,Pricing
+C2924,Active,Competitor
+C2925,Active,Service Quality
+C2926,Active,Pricing
+C2927,Active,Pricing
+C2928,Active,Competitor
+C2929,Active,Service Quality
+C2930,Active,Other
+C2931,Active,Competitor
+C2932,Active,Pricing
+C2933,Churned,Other
+C2934,Churned,Other
+C2935,Churned,Other
+C2936,Active,Other
+C2937,Active,Pricing
+C2938,Active,Other
+C2939,Active,Pricing
+C2940,Active,Pricing
+C2941,Churned,Other
+C2942,Active,Pricing
+C2943,Active,Service Quality
+C2944,Churned,Competitor
+C2945,Active,Service Quality
+C2946,Active,Pricing
+C2947,Active,Service Quality
+C2948,Active,Service Quality
+C2949,Churned,Competitor
+C2950,Churned,Other
+C2951,Active,Other
+C2952,Active,Competitor
+C2953,Active,Service Quality
+C2954,Active,Service Quality
+C2955,Active,Service Quality
+C2956,Active,Competitor
+C2957,Active,Pricing
+C2958,Active,Pricing
+C2959,Active,Competitor
+C2960,Active,Competitor
+C2961,Active,Service Quality
+C2962,Active,Competitor
+C2963,Active,Other
+C2964,Active,Service Quality
+C2965,Active,Competitor
+C2966,Active,Service Quality
+C2967,Active,Other
+C2968,Churned,Service Quality
+C2969,Active,Pricing
+C2970,Active,Competitor
+C2971,Active,Service Quality
+C2972,Churned,Pricing
+C2973,Churned,Pricing
+C2974,Active,Pricing
+C2975,Active,Pricing
+C2976,Churned,Competitor
+C2977,Active,Pricing
+C2978,Active,Competitor
+C2979,Active,Service Quality
+C2980,Active,Competitor
+C2981,Active,Pricing
+C2982,Active,Competitor
+C2983,Churned,Service Quality
+C2984,Active,Competitor
+C2985,Active,Service Quality
+C2986,Active,Competitor
+C2987,Churned,Other
+C2988,Active,Other
+C2989,Active,Other
+C2990,Active,Other
+C2991,Active,Pricing
+C2992,Active,Other
+C2993,Active,Service Quality
+C2994,Active,Pricing
+C2995,Active,Service Quality
+C2996,Active,Other
+C2997,Active,Competitor
+C2998,Active,Service Quality
+C2999,Active,Pricing
+C3000,Active,Service Quality
+C3001,Active,Other
+C3002,Active,Pricing
+C3003,Active,Other
+C3004,Active,Other
+C3005,Active,Competitor
+C3006,Active,Other
+C3007,Active,Competitor
+C3008,Churned,Pricing
+C3009,Churned,Competitor
+C3010,Active,Pricing
+C3011,Churned,Competitor
+C3012,Active,Service Quality
+C3013,Active,Service Quality
+C3014,Active,Pricing
+C3015,Active,Competitor
+C3016,Active,Service Quality
+C3017,Churned,Service Quality
+C3018,Churned,Competitor
+C3019,Active,Competitor
+C3020,Active,Other
+C3021,Active,Service Quality
+C3022,Active,Service Quality
+C3023,Active,Pricing
+C3024,Active,Competitor
+C3025,Active,Other
+C3026,Churned,Other
+C3027,Active,Competitor
+C3028,Churned,Competitor
+C3029,Active,Other
+C3030,Churned,Pricing
+C3031,Active,Other
+C3032,Active,Pricing
+C3033,Active,Competitor
+C3034,Active,Pricing
+C3035,Active,Service Quality
+C3036,Active,Other
+C3037,Active,Other
+C3038,Churned,Competitor
+C3039,Active,Pricing
+C3040,Churned,Pricing
+C3041,Active,Competitor
+C3042,Active,Pricing
+C3043,Active,Pricing
+C3044,Active,Service Quality
+C3045,Churned,Pricing
+C3046,Active,Service Quality
+C3047,Active,Pricing
+C3048,Active,Competitor
+C3049,Active,Other
+C3050,Active,Service Quality
+C3051,Churned,Other
+C3052,Active,Service Quality
+C3053,Active,Service Quality
+C3054,Active,Competitor
+C3055,Active,Pricing
+C3056,Churned,Pricing
+C3057,Churned,Service Quality
+C3058,Churned,Pricing
+C3059,Churned,Service Quality
+C3060,Active,Other
+C3061,Active,Competitor
+C3062,Active,Service Quality
+C3063,Active,Other
+C3064,Active,Pricing
+C3065,Active,Competitor
+C3066,Active,Competitor
+C3067,Active,Other
+C3068,Active,Service Quality
+C3069,Active,Service Quality
+C3070,Active,Pricing
+C3071,Active,Other
+C3072,Active,Pricing
+C3073,Churned,Service Quality
+C3074,Active,Service Quality
+C3075,Active,Competitor
+C3076,Active,Other
+C3077,Churned,Service Quality
+C3078,Active,Competitor
+C3079,Active,Competitor
+C3080,Churned,Other
+C3081,Active,Service Quality
+C3082,Active,Pricing
+C3083,Active,Pricing
+C3084,Active,Service Quality
+C3085,Active,Other
+C3086,Active,Other
+C3087,Active,Competitor
+C3088,Active,Other
+C3089,Active,Other
+C3090,Active,Service Quality
+C3091,Active,Service Quality
+C3092,Active,Service Quality
+C3093,Active,Service Quality
+C3094,Active,Competitor
+C3095,Active,Other
+C3096,Active,Service Quality
+C3097,Active,Competitor
+C3098,Active,Service Quality
+C3099,Active,Competitor
+C3100,Active,Other
+C3101,Active,Other
+C3102,Churned,Service Quality
+C3103,Active,Pricing
+C3104,Active,Other
+C3105,Active,Pricing
+C3106,Active,Competitor
+C3107,Active,Other
+C3108,Active,Pricing
+C3109,Active,Service Quality
+C3110,Active,Other
+C3111,Active,Service Quality
+C3112,Active,Service Quality
+C3113,Active,Service Quality
+C3114,Active,Competitor
+C3115,Active,Pricing
+C3116,Active,Service Quality
+C3117,Active,Pricing
+C3118,Churned,Competitor
+C3119,Active,Pricing
+C3120,Active,Pricing
+C3121,Active,Service Quality
+C3122,Active,Service Quality
+C3123,Active,Competitor
+C3124,Active,Competitor
+C3125,Active,Pricing
+C3126,Active,Competitor
+C3127,Churned,Pricing
+C3128,Active,Service Quality
+C3129,Active,Other
+C3130,Active,Competitor
+C3131,Active,Pricing
+C3132,Active,Pricing
+C3133,Active,Service Quality
+C3134,Active,Other
+C3135,Active,Service Quality
+C3136,Active,Other
+C3137,Churned,Competitor
+C3138,Churned,Other
+C3139,Churned,Pricing
+C3140,Active,Pricing
+C3141,Active,Other
+C3142,Active,Competitor
+C3143,Active,Pricing
+C3144,Active,Service Quality
+C3145,Churned,Other
+C3146,Active,Other
+C3147,Active,Service Quality
+C3148,Active,Pricing
+C3149,Active,Service Quality
+C3150,Active,Other
+C3151,Churned,Service Quality
+C3152,Active,Service Quality
+C3153,Active,Other
+C3154,Churned,Competitor
+C3155,Churned,Service Quality
+C3156,Active,Other
+C3157,Active,Pricing
+C3158,Active,Competitor
+C3159,Active,Pricing
+C3160,Churned,Competitor
+C3161,Churned,Service Quality
+C3162,Active,Service Quality
+C3163,Churned,Other
+C3164,Churned,Competitor
+C3165,Churned,Competitor
+C3166,Active,Competitor
+C3167,Active,Competitor
+C3168,Churned,Competitor
+C3169,Active,Service Quality
+C3170,Active,Competitor
+C3171,Active,Competitor
+C3172,Active,Service Quality
+C3173,Active,Pricing
+C3174,Churned,Pricing
+C3175,Active,Pricing
+C3176,Active,Other
+C3177,Active,Service Quality
+C3178,Active,Service Quality
+C3179,Churned,Competitor
+C3180,Churned,Other
+C3181,Churned,Competitor
+C3182,Churned,Service Quality
+C3183,Active,Other
+C3184,Active,Service Quality
+C3185,Active,Other
+C3186,Active,Other
+C3187,Active,Pricing
+C3188,Active,Competitor
+C3189,Active,Other
+C3190,Active,Pricing
+C3191,Active,Service Quality
+C3192,Active,Service Quality
+C3193,Active,Service Quality
+C3194,Churned,Other
+C3195,Active,Competitor
+C3196,Active,Service Quality
+C3197,Active,Pricing
+C3198,Active,Pricing
+C3199,Active,Competitor
+C3200,Active,Other
+C3201,Active,Pricing
+C3202,Churned,Other
+C3203,Active,Other
+C3204,Active,Competitor
+C3205,Churned,Service Quality
+C3206,Active,Other
+C3207,Churned,Competitor
+C3208,Active,Pricing
+C3209,Churned,Service Quality
+C3210,Active,Service Quality
+C3211,Active,Service Quality
+C3212,Active,Service Quality
+C3213,Active,Competitor
+C3214,Churned,Other
+C3215,Churned,Competitor
+C3216,Churned,Other
+C3217,Churned,Competitor
+C3218,Active,Competitor
+C3219,Active,Pricing
+C3220,Churned,Other
+C3221,Active,Other
+C3222,Active,Pricing
+C3223,Active,Service Quality
+C3224,Active,Competitor
+C3225,Churned,Competitor
+C3226,Churned,Competitor
+C3227,Churned,Service Quality
+C3228,Churned,Competitor
+C3229,Churned,Pricing
+C3230,Active,Service Quality
+C3231,Churned,Competitor
+C3232,Active,Pricing
+C3233,Active,Other
+C3234,Active,Other
+C3235,Active,Service Quality
+C3236,Active,Other
+C3237,Active,Competitor
+C3238,Active,Competitor
+C3239,Churned,Competitor
+C3240,Active,Pricing
+C3241,Active,Other
+C3242,Active,Pricing
+C3243,Active,Other
+C3244,Churned,Service Quality
+C3245,Active,Other
+C3246,Active,Service Quality
+C3247,Active,Service Quality
+C3248,Active,Pricing
+C3249,Active,Service Quality
+C3250,Churned,Other
+C3251,Churned,Pricing
+C3252,Active,Competitor
+C3253,Churned,Competitor
+C3254,Active,Competitor
+C3255,Active,Pricing
+C3256,Active,Other
+C3257,Active,Pricing
+C3258,Active,Other
+C3259,Active,Pricing
+C3260,Active,Service Quality
+C3261,Active,Competitor
+C3262,Active,Other
+C3263,Active,Competitor
+C3264,Active,Service Quality
+C3265,Active,Pricing
+C3266,Churned,Service Quality
+C3267,Active,Pricing
+C3268,Active,Service Quality
+C3269,Active,Service Quality
+C3270,Churned,Pricing
+C3271,Active,Other
+C3272,Churned,Other
+C3273,Churned,Other
+C3274,Active,Competitor
+C3275,Active,Competitor
+C3276,Active,Service Quality
+C3277,Active,Service Quality
+C3278,Active,Pricing
+C3279,Active,Pricing
+C3280,Active,Service Quality
+C3281,Active,Pricing
+C3282,Churned,Pricing
+C3283,Active,Pricing
+C3284,Active,Other
+C3285,Active,Service Quality
+C3286,Active,Pricing
+C3287,Active,Pricing
+C3288,Active,Other
+C3289,Active,Pricing
+C3290,Active,Other
+C3291,Churned,Other
+C3292,Active,Service Quality
+C3293,Churned,Competitor
+C3294,Active,Pricing
+C3295,Churned,Pricing
+C3296,Active,Other
+C3297,Active,Service Quality
+C3298,Active,Other
+C3299,Active,Pricing
+C3300,Active,Competitor
+C3301,Active,Competitor
+C3302,Active,Service Quality
+C3303,Active,Pricing
+C3304,Churned,Service Quality
+C3305,Active,Service Quality
+C3306,Active,Competitor
+C3307,Active,Pricing
+C3308,Active,Competitor
+C3309,Active,Other
+C3310,Churned,Other
+C3311,Active,Other
+C3312,Active,Competitor
+C3313,Active,Service Quality
+C3314,Churned,Competitor
+C3315,Active,Service Quality
+C3316,Active,Service Quality
+C3317,Active,Other
+C3318,Active,Service Quality
+C3319,Active,Competitor
+C3320,Active,Pricing
+C3321,Active,Service Quality
+C3322,Active,Service Quality
+C3323,Active,Competitor
+C3324,Active,Service Quality
+C3325,Active,Pricing
+C3326,Churned,Service Quality
+C3327,Active,Service Quality
+C3328,Active,Competitor
+C3329,Active,Other
+C3330,Active,Pricing
+C3331,Churned,Pricing
+C3332,Active,Other
+C3333,Active,Competitor
+C3334,Churned,Service Quality
+C3335,Active,Service Quality
+C3336,Active,Competitor
+C3337,Active,Pricing
+C3338,Active,Pricing
+C3339,Active,Competitor
+C3340,Active,Pricing
+C3341,Active,Competitor
+C3342,Active,Pricing
+C3343,Active,Pricing
+C3344,Active,Pricing
+C3345,Active,Pricing
+C3346,Churned,Other
+C3347,Active,Other
+C3348,Active,Other
+C3349,Churned,Service Quality
+C3350,Active,Other
+C3351,Active,Service Quality
+C3352,Active,Service Quality
+C3353,Churned,Other
+C3354,Active,Other
+C3355,Active,Other
+C3356,Active,Competitor
+C3357,Active,Service Quality
+C3358,Active,Competitor
+C3359,Active,Competitor
+C3360,Active,Other
+C3361,Churned,Service Quality
+C3362,Active,Service Quality
+C3363,Active,Pricing
+C3364,Active,Service Quality
+C3365,Active,Pricing
+C3366,Active,Competitor
+C3367,Active,Pricing
+C3368,Churned,Other
+C3369,Active,Other
+C3370,Churned,Other
+C3371,Active,Service Quality
+C3372,Active,Other
+C3373,Active,Competitor
+C3374,Churned,Other
+C3375,Churned,Other
+C3376,Active,Competitor
+C3377,Active,Service Quality
+C3378,Active,Service Quality
+C3379,Active,Other
+C3380,Active,Pricing
+C3381,Active,Other
+C3382,Active,Other
+C3383,Active,Other
+C3384,Churned,Service Quality
+C3385,Churned,Competitor
+C3386,Active,Competitor
+C3387,Active,Service Quality
+C3388,Active,Pricing
+C3389,Active,Other
+C3390,Active,Competitor
+C3391,Active,Service Quality
+C3392,Churned,Service Quality
+C3393,Active,Pricing
+C3394,Churned,Other
+C3395,Active,Other
+C3396,Active,Other
+C3397,Churned,Pricing
+C3398,Churned,Competitor
+C3399,Active,Competitor
+C3400,Active,Competitor
+C3401,Active,Other
+C3402,Active,Competitor
+C3403,Active,Service Quality
+C3404,Churned,Service Quality
+C3405,Active,Other
+C3406,Active,Pricing
+C3407,Active,Service Quality
+C3408,Active,Other
+C3409,Active,Competitor
+C3410,Active,Other
+C3411,Churned,Competitor
+C3412,Churned,Pricing
+C3413,Active,Pricing
+C3414,Active,Other
+C3415,Active,Service Quality
+C3416,Active,Other
+C3417,Churned,Service Quality
+C3418,Churned,Service Quality
+C3419,Churned,Competitor
+C3420,Active,Service Quality
+C3421,Active,Service Quality
+C3422,Active,Pricing
+C3423,Churned,Competitor
+C3424,Active,Service Quality
+C3425,Active,Competitor
+C3426,Active,Competitor
+C3427,Active,Other
+C3428,Churned,Service Quality
+C3429,Active,Pricing
+C3430,Active,Pricing
+C3431,Active,Competitor
+C3432,Active,Pricing
+C3433,Churned,Other
+C3434,Churned,Competitor
+C3435,Active,Pricing
+C3436,Active,Pricing
+C3437,Active,Other
+C3438,Churned,Service Quality
+C3439,Active,Other
+C3440,Churned,Other
+C3441,Active,Other
+C3442,Active,Other
+C3443,Active,Other
+C3444,Active,Competitor
+C3445,Active,Service Quality
+C3446,Active,Other
+C3447,Active,Pricing
+C3448,Active,Pricing
+C3449,Active,Competitor
+C3450,Active,Other
+C3451,Active,Pricing
+C3452,Active,Service Quality
+C3453,Churned,Other
+C3454,Active,Pricing
+C3455,Active,Pricing
+C3456,Active,Other
+C3457,Active,Competitor
+C3458,Churned,Competitor
+C3459,Active,Other
+C3460,Active,Other
+C3461,Active,Service Quality
+C3462,Active,Other
+C3463,Active,Pricing
+C3464,Active,Service Quality
+C3465,Active,Pricing
+C3466,Churned,Other
+C3467,Active,Pricing
+C3468,Active,Other
+C3469,Churned,Service Quality
+C3470,Churned,Pricing
+C3471,Active,Other
+C3472,Active,Service Quality
+C3473,Churned,Pricing
+C3474,Churned,Service Quality
+C3475,Churned,Other
+C3476,Active,Competitor
+C3477,Active,Other
+C3478,Active,Other
+C3479,Active,Competitor
+C3480,Active,Pricing
+C3481,Churned,Pricing
+C3482,Churned,Other
+C3483,Churned,Other
+C3484,Active,Other
+C3485,Active,Pricing
+C3486,Active,Other
+C3487,Active,Competitor
+C3488,Active,Competitor
+C3489,Churned,Other
+C3490,Active,Competitor
+C3491,Active,Pricing
+C3492,Churned,Competitor
+C3493,Active,Pricing
+C3494,Active,Competitor
+C3495,Churned,Competitor
+C3496,Active,Other
+C3497,Active,Competitor
+C3498,Active,Pricing
+C3499,Active,Pricing
+C3500,Active,Competitor
+C3501,Active,Competitor
+C3502,Active,Other
+C3503,Active,Service Quality
+C3504,Active,Competitor
+C3505,Active,Pricing
+C3506,Churned,Other
+C3507,Churned,Service Quality
+C3508,Churned,Competitor
+C3509,Active,Pricing
+C3510,Active,Other
+C3511,Active,Pricing
+C3512,Active,Other
+C3513,Active,Competitor
+C3514,Active,Other
+C3515,Active,Competitor
+C3516,Active,Other
+C3517,Active,Other
+C3518,Active,Other
+C3519,Churned,Pricing
+C3520,Active,Service Quality
+C3521,Active,Other
+C3522,Active,Competitor
+C3523,Active,Other
+C3524,Active,Service Quality
+C3525,Active,Service Quality
+C3526,Churned,Pricing
+C3527,Active,Pricing
+C3528,Active,Service Quality
+C3529,Active,Service Quality
+C3530,Active,Other
+C3531,Churned,Competitor
+C3532,Churned,Pricing
+C3533,Active,Service Quality
+C3534,Active,Service Quality
+C3535,Active,Service Quality
+C3536,Churned,Service Quality
+C3537,Active,Service Quality
+C3538,Active,Pricing
+C3539,Active,Competitor
+C3540,Active,Other
+C3541,Active,Pricing
+C3542,Active,Pricing
+C3543,Active,Competitor
+C3544,Active,Other
+C3545,Active,Competitor
+C3546,Active,Competitor
+C3547,Active,Competitor
+C3548,Active,Pricing
+C3549,Active,Service Quality
+C3550,Active,Other
+C3551,Active,Competitor
+C3552,Churned,Competitor
+C3553,Active,Other
+C3554,Active,Service Quality
+C3555,Active,Competitor
+C3556,Churned,Pricing
+C3557,Active,Competitor
+C3558,Active,Competitor
+C3559,Churned,Competitor
+C3560,Churned,Competitor
+C3561,Active,Competitor
+C3562,Churned,Pricing
+C3563,Active,Service Quality
+C3564,Active,Competitor
+C3565,Active,Other
+C3566,Active,Service Quality
+C3567,Active,Pricing
+C3568,Active,Pricing
+C3569,Churned,Competitor
+C3570,Active,Competitor
+C3571,Active,Service Quality
+C3572,Active,Other
+C3573,Active,Competitor
+C3574,Active,Service Quality
+C3575,Active,Competitor
+C3576,Churned,Service Quality
+C3577,Churned,Pricing
+C3578,Active,Pricing
+C3579,Churned,Service Quality
+C3580,Churned,Pricing
+C3581,Active,Competitor
+C3582,Churned,Pricing
+C3583,Active,Service Quality
+C3584,Active,Other
+C3585,Active,Service Quality
+C3586,Churned,Competitor
+C3587,Active,Competitor
+C3588,Active,Service Quality
+C3589,Active,Service Quality
+C3590,Churned,Pricing
+C3591,Active,Competitor
+C3592,Active,Pricing
+C3593,Churned,Other
+C3594,Active,Other
+C3595,Churned,Other
+C3596,Active,Competitor
+C3597,Active,Service Quality
+C3598,Active,Pricing
+C3599,Active,Competitor
+C3600,Churned,Other
+C3601,Active,Service Quality
+C3602,Active,Service Quality
+C3603,Active,Other
+C3604,Churned,Pricing
+C3605,Active,Competitor
+C3606,Active,Other
+C3607,Churned,Other
+C3608,Active,Competitor
+C3609,Churned,Competitor
+C3610,Active,Pricing
+C3611,Active,Other
+C3612,Churned,Pricing
+C3613,Churned,Service Quality
+C3614,Active,Service Quality
+C3615,Active,Competitor
+C3616,Active,Pricing
+C3617,Active,Other
+C3618,Active,Pricing
+C3619,Active,Service Quality
+C3620,Active,Other
+C3621,Active,Competitor
+C3622,Active,Pricing
+C3623,Active,Other
+C3624,Churned,Service Quality
+C3625,Active,Competitor
+C3626,Churned,Competitor
+C3627,Active,Pricing
+C3628,Active,Service Quality
+C3629,Active,Pricing
+C3630,Active,Service Quality
+C3631,Active,Other
+C3632,Active,Other
+C3633,Active,Service Quality
+C3634,Active,Other
+C3635,Active,Service Quality
+C3636,Churned,Other
+C3637,Active,Pricing
+C3638,Active,Pricing
+C3639,Churned,Competitor
+C3640,Active,Service Quality
+C3641,Active,Service Quality
+C3642,Active,Pricing
+C3643,Active,Other
+C3644,Active,Other
+C3645,Churned,Service Quality
+C3646,Active,Other
+C3647,Active,Service Quality
+C3648,Churned,Service Quality
+C3649,Active,Competitor
+C3650,Active,Pricing
+C3651,Active,Service Quality
+C3652,Active,Service Quality
+C3653,Churned,Pricing
+C3654,Churned,Pricing
+C3655,Active,Other
+C3656,Active,Service Quality
+C3657,Active,Other
+C3658,Active,Service Quality
+C3659,Active,Pricing
+C3660,Active,Pricing
+C3661,Active,Competitor
+C3662,Active,Other
+C3663,Active,Other
+C3664,Churned,Service Quality
+C3665,Active,Service Quality
+C3666,Active,Pricing
+C3667,Active,Pricing
+C3668,Active,Competitor
+C3669,Active,Service Quality
+C3670,Active,Pricing
+C3671,Churned,Pricing
+C3672,Active,Service Quality
+C3673,Active,Other
+C3674,Churned,Service Quality
+C3675,Active,Competitor
+C3676,Active,Pricing
+C3677,Active,Service Quality
+C3678,Active,Pricing
+C3679,Active,Service Quality
+C3680,Active,Service Quality
+C3681,Churned,Pricing
+C3682,Active,Pricing
+C3683,Active,Pricing
+C3684,Churned,Other
+C3685,Active,Pricing
+C3686,Active,Pricing
+C3687,Active,Service Quality
+C3688,Churned,Other
+C3689,Active,Competitor
+C3690,Churned,Other
+C3691,Active,Pricing
+C3692,Active,Pricing
+C3693,Active,Competitor
+C3694,Active,Service Quality
+C3695,Churned,Competitor
+C3696,Active,Competitor
+C3697,Active,Other
+C3698,Churned,Pricing
+C3699,Active,Competitor
+C3700,Active,Other
+C3701,Active,Competitor
+C3702,Active,Other
+C3703,Active,Other
+C3704,Active,Pricing
+C3705,Active,Competitor
+C3706,Active,Pricing
+C3707,Active,Other
+C3708,Churned,Other
+C3709,Active,Pricing
+C3710,Active,Other
+C3711,Churned,Pricing
+C3712,Churned,Competitor
+C3713,Active,Service Quality
+C3714,Active,Other
+C3715,Active,Competitor
+C3716,Active,Service Quality
+C3717,Active,Service Quality
+C3718,Active,Pricing
+C3719,Active,Other
+C3720,Active,Other
+C3721,Active,Other
+C3722,Churned,Other
+C3723,Churned,Pricing
+C3724,Active,Pricing
+C3725,Active,Other
+C3726,Active,Competitor
+C3727,Active,Competitor
+C3728,Active,Other
+C3729,Active,Service Quality
+C3730,Churned,Competitor
+C3731,Active,Pricing
+C3732,Active,Other
+C3733,Active,Other
+C3734,Churned,Service Quality
+C3735,Active,Other
+C3736,Churned,Pricing
+C3737,Active,Competitor
+C3738,Churned,Service Quality
+C3739,Churned,Other
+C3740,Active,Pricing
+C3741,Active,Pricing
+C3742,Churned,Other
+C3743,Active,Pricing
+C3744,Active,Competitor
+C3745,Churned,Competitor
+C3746,Active,Pricing
+C3747,Churned,Competitor
+C3748,Active,Pricing
+C3749,Active,Competitor
+C3750,Active,Pricing
+C3751,Churned,Service Quality
+C3752,Active,Service Quality
+C3753,Churned,Competitor
+C3754,Active,Pricing
+C3755,Active,Competitor
+C3756,Active,Competitor
+C3757,Active,Service Quality
+C3758,Churned,Competitor
+C3759,Active,Pricing
+C3760,Churned,Other
+C3761,Active,Competitor
+C3762,Active,Pricing
+C3763,Active,Pricing
+C3764,Active,Other
+C3765,Active,Competitor
+C3766,Churned,Competitor
+C3767,Churned,Service Quality
+C3768,Active,Service Quality
+C3769,Churned,Competitor
+C3770,Active,Other
+C3771,Active,Competitor
+C3772,Active,Other
+C3773,Churned,Pricing
+C3774,Active,Service Quality
+C3775,Active,Service Quality
+C3776,Churned,Pricing
+C3777,Active,Other
+C3778,Active,Pricing
+C3779,Active,Service Quality
+C3780,Active,Pricing
+C3781,Churned,Other
+C3782,Active,Other
+C3783,Active,Pricing
+C3784,Active,Other
+C3785,Active,Service Quality
+C3786,Active,Competitor
+C3787,Churned,Service Quality
+C3788,Active,Service Quality
+C3789,Active,Service Quality
+C3790,Active,Pricing
+C3791,Active,Other
+C3792,Active,Service Quality
+C3793,Active,Other
+C3794,Active,Competitor
+C3795,Active,Pricing
+C3796,Active,Competitor
+C3797,Churned,Competitor
+C3798,Active,Pricing
+C3799,Churned,Service Quality
+C3800,Active,Service Quality
+C3801,Active,Service Quality
+C3802,Active,Pricing
+C3803,Churned,Competitor
+C3804,Active,Other
+C3805,Active,Competitor
+C3806,Active,Pricing
+C3807,Churned,Other
+C3808,Active,Competitor
+C3809,Active,Other
+C3810,Active,Competitor
+C3811,Active,Other
+C3812,Churned,Competitor
+C3813,Active,Other
+C3814,Active,Other
+C3815,Active,Competitor
+C3816,Active,Service Quality
+C3817,Churned,Pricing
+C3818,Active,Service Quality
+C3819,Active,Pricing
+C3820,Churned,Pricing
+C3821,Churned,Service Quality
+C3822,Churned,Service Quality
+C3823,Active,Service Quality
+C3824,Active,Pricing
+C3825,Active,Pricing
+C3826,Churned,Competitor
+C3827,Churned,Service Quality
+C3828,Active,Competitor
+C3829,Churned,Service Quality
+C3830,Active,Competitor
+C3831,Active,Competitor
+C3832,Active,Competitor
+C3833,Active,Service Quality
+C3834,Active,Service Quality
+C3835,Active,Other
+C3836,Churned,Competitor
+C3837,Active,Pricing
+C3838,Active,Other
+C3839,Churned,Other
+C3840,Active,Competitor
+C3841,Churned,Pricing
+C3842,Active,Other
+C3843,Active,Other
+C3844,Active,Other
+C3845,Active,Competitor
+C3846,Active,Service Quality
+C3847,Churned,Competitor
+C3848,Churned,Service Quality
+C3849,Churned,Competitor
+C3850,Churned,Competitor
+C3851,Active,Service Quality
+C3852,Active,Pricing
+C3853,Churned,Pricing
+C3854,Active,Competitor
+C3855,Active,Other
+C3856,Active,Competitor
+C3857,Active,Pricing
+C3858,Active,Competitor
+C3859,Churned,Service Quality
+C3860,Active,Other
+C3861,Active,Pricing
+C3862,Active,Pricing
+C3863,Active,Pricing
+C3864,Active,Pricing
+C3865,Active,Pricing
+C3866,Active,Competitor
+C3867,Churned,Competitor
+C3868,Active,Service Quality
+C3869,Active,Competitor
+C3870,Active,Competitor
+C3871,Active,Competitor
+C3872,Active,Competitor
+C3873,Active,Other
+C3874,Churned,Service Quality
+C3875,Active,Service Quality
+C3876,Active,Other
+C3877,Active,Service Quality
+C3878,Churned,Other
+C3879,Churned,Service Quality
+C3880,Active,Other
+C3881,Churned,Pricing
+C3882,Active,Service Quality
+C3883,Active,Pricing
+C3884,Active,Pricing
+C3885,Active,Service Quality
+C3886,Churned,Competitor
+C3887,Active,Pricing
+C3888,Active,Other
+C3889,Active,Pricing
+C3890,Active,Competitor
+C3891,Active,Competitor
+C3892,Churned,Competitor
+C3893,Active,Competitor
+C3894,Active,Service Quality
+C3895,Active,Pricing
+C3896,Active,Pricing
+C3897,Active,Other
+C3898,Active,Service Quality
+C3899,Active,Pricing
+C3900,Active,Service Quality
+C3901,Active,Service Quality
+C3902,Active,Service Quality
+C3903,Active,Competitor
+C3904,Active,Service Quality
+C3905,Churned,Competitor
+C3906,Active,Other
+C3907,Active,Pricing
+C3908,Active,Competitor
+C3909,Active,Pricing
+C3910,Active,Competitor
+C3911,Active,Service Quality
+C3912,Active,Pricing
+C3913,Active,Service Quality
+C3914,Active,Pricing
+C3915,Active,Service Quality
+C3916,Active,Pricing
+C3917,Active,Pricing
+C3918,Active,Pricing
+C3919,Active,Service Quality
+C3920,Active,Other
+C3921,Churned,Service Quality
+C3922,Churned,Service Quality
+C3923,Active,Competitor
+C3924,Active,Pricing
+C3925,Churned,Service Quality
+C3926,Active,Competitor
+C3927,Active,Service Quality
+C3928,Churned,Competitor
+C3929,Churned,Pricing
+C3930,Active,Service Quality
+C3931,Active,Pricing
+C3932,Active,Competitor
+C3933,Churned,Competitor
+C3934,Active,Other
+C3935,Churned,Competitor
+C3936,Active,Pricing
+C3937,Churned,Other
+C3938,Active,Pricing
+C3939,Active,Other
+C3940,Active,Other
+C3941,Active,Pricing
+C3942,Churned,Other
+C3943,Active,Other
+C3944,Active,Pricing
+C3945,Active,Other
+C3946,Churned,Competitor
+C3947,Active,Competitor
+C3948,Active,Other
+C3949,Active,Competitor
+C3950,Churned,Service Quality
+C3951,Active,Other
+C3952,Active,Competitor
+C3953,Active,Competitor
+C3954,Active,Other
+C3955,Active,Other
+C3956,Churned,Competitor
+C3957,Churned,Pricing
+C3958,Active,Pricing
+C3959,Active,Service Quality
+C3960,Churned,Service Quality
+C3961,Active,Competitor
+C3962,Active,Competitor
+C3963,Active,Competitor
+C3964,Active,Other
+C3965,Active,Pricing
+C3966,Active,Pricing
+C3967,Active,Competitor
+C3968,Active,Other
+C3969,Churned,Pricing
+C3970,Active,Pricing
+C3971,Active,Other
+C3972,Active,Other
+C3973,Active,Other
+C3974,Active,Other
+C3975,Active,Other
+C3976,Active,Other
+C3977,Active,Competitor
+C3978,Active,Competitor
+C3979,Churned,Service Quality
+C3980,Active,Competitor
+C3981,Churned,Competitor
+C3982,Active,Pricing
+C3983,Active,Service Quality
+C3984,Churned,Other
+C3985,Active,Competitor
+C3986,Active,Pricing
+C3987,Active,Other
+C3988,Active,Competitor
+C3989,Active,Competitor
+C3990,Churned,Pricing
+C3991,Active,Other
+C3992,Active,Pricing
+C3993,Active,Other
+C3994,Active,Competitor
+C3995,Churned,Pricing
+C3996,Active,Pricing
+C3997,Churned,Service Quality
+C3998,Active,Competitor
+C3999,Active,Competitor
+C4000,Active,Other
+C4001,Active,Service Quality
+C4002,Active,Pricing
+C4003,Active,Service Quality
+C4004,Active,Service Quality
+C4005,Churned,Competitor
+C4006,Active,Competitor
+C4007,Active,Other
+C4008,Active,Pricing
+C4009,Active,Pricing
+C4010,Churned,Pricing
+C4011,Active,Other
+C4012,Churned,Other
+C4013,Active,Other
+C4014,Active,Pricing
+C4015,Active,Competitor
+C4016,Active,Competitor
+C4017,Churned,Competitor
+C4018,Active,Competitor
+C4019,Active,Other
+C4020,Active,Pricing
+C4021,Active,Service Quality
+C4022,Active,Pricing
+C4023,Churned,Service Quality
+C4024,Active,Competitor
+C4025,Active,Other
+C4026,Active,Competitor
+C4027,Active,Pricing
+C4028,Active,Other
+C4029,Active,Other
+C4030,Active,Competitor
+C4031,Churned,Pricing
+C4032,Active,Competitor
+C4033,Active,Service Quality
+C4034,Churned,Other
+C4035,Churned,Service Quality
+C4036,Churned,Pricing
+C4037,Active,Pricing
+C4038,Churned,Service Quality
+C4039,Active,Pricing
+C4040,Active,Other
+C4041,Churned,Pricing
+C4042,Active,Other
+C4043,Active,Other
+C4044,Active,Pricing
+C4045,Active,Service Quality
+C4046,Active,Competitor
+C4047,Churned,Other
+C4048,Active,Competitor
+C4049,Churned,Competitor
+C4050,Active,Other
+C4051,Active,Competitor
+C4052,Active,Other
+C4053,Active,Competitor
+C4054,Active,Other
+C4055,Active,Pricing
+C4056,Active,Service Quality
+C4057,Active,Service Quality
+C4058,Active,Pricing
+C4059,Churned,Pricing
+C4060,Active,Competitor
+C4061,Active,Other
+C4062,Active,Pricing
+C4063,Active,Pricing
+C4064,Churned,Competitor
+C4065,Active,Service Quality
+C4066,Active,Pricing
+C4067,Active,Service Quality
+C4068,Churned,Other
+C4069,Active,Service Quality
+C4070,Active,Pricing
+C4071,Active,Competitor
+C4072,Active,Other
+C4073,Active,Pricing
+C4074,Active,Other
+C4075,Active,Service Quality
+C4076,Churned,Other
+C4077,Active,Other
+C4078,Active,Other
+C4079,Active,Pricing
+C4080,Active,Other
+C4081,Active,Other
+C4082,Churned,Pricing
+C4083,Active,Service Quality
+C4084,Active,Pricing
+C4085,Active,Competitor
+C4086,Churned,Pricing
+C4087,Active,Service Quality
+C4088,Active,Service Quality
+C4089,Active,Other
+C4090,Active,Competitor
+C4091,Active,Other
+C4092,Active,Competitor
+C4093,Active,Other
+C4094,Active,Service Quality
+C4095,Active,Pricing
+C4096,Active,Competitor
+C4097,Active,Other
+C4098,Active,Service Quality
+C4099,Churned,Pricing
+C4100,Active,Competitor
+C4101,Churned,Competitor
+C4102,Active,Competitor
+C4103,Churned,Other
+C4104,Churned,Service Quality
+C4105,Active,Other
+C4106,Active,Competitor
+C4107,Active,Service Quality
+C4108,Churned,Pricing
+C4109,Churned,Service Quality
+C4110,Active,Pricing
+C4111,Active,Service Quality
+C4112,Churned,Other
+C4113,Churned,Service Quality
+C4114,Active,Other
+C4115,Active,Pricing
+C4116,Active,Service Quality
+C4117,Churned,Competitor
+C4118,Active,Service Quality
+C4119,Active,Other
+C4120,Active,Other
+C4121,Active,Competitor
+C4122,Active,Service Quality
+C4123,Churned,Service Quality
+C4124,Active,Service Quality
+C4125,Churned,Competitor
+C4126,Active,Other
+C4127,Active,Competitor
+C4128,Active,Service Quality
+C4129,Active,Pricing
+C4130,Active,Other
+C4131,Churned,Competitor
+C4132,Active,Pricing
+C4133,Active,Competitor
+C4134,Active,Competitor
+C4135,Active,Pricing
+C4136,Active,Competitor
+C4137,Active,Pricing
+C4138,Active,Service Quality
+C4139,Active,Competitor
+C4140,Churned,Service Quality
+C4141,Active,Competitor
+C4142,Active,Service Quality
+C4143,Active,Other
+C4144,Active,Competitor
+C4145,Active,Competitor
+C4146,Churned,Service Quality
+C4147,Churned,Pricing
+C4148,Active,Pricing
+C4149,Active,Service Quality
+C4150,Active,Other
+C4151,Active,Other
+C4152,Active,Competitor
+C4153,Active,Service Quality
+C4154,Active,Pricing
+C4155,Active,Other
+C4156,Active,Competitor
+C4157,Active,Other
+C4158,Active,Other
+C4159,Active,Competitor
+C4160,Active,Service Quality
+C4161,Active,Other
+C4162,Churned,Competitor
+C4163,Active,Pricing
+C4164,Active,Service Quality
+C4165,Active,Service Quality
+C4166,Active,Service Quality
+C4167,Active,Service Quality
+C4168,Active,Competitor
+C4169,Active,Service Quality
+C4170,Churned,Other
+C4171,Active,Pricing
+C4172,Churned,Competitor
+C4173,Active,Pricing
+C4174,Active,Service Quality
+C4175,Active,Other
+C4176,Active,Other
+C4177,Active,Competitor
+C4178,Active,Pricing
+C4179,Active,Competitor
+C4180,Active,Competitor
+C4181,Active,Other
+C4182,Active,Pricing
+C4183,Active,Competitor
+C4184,Churned,Pricing
+C4185,Active,Other
+C4186,Active,Other
+C4187,Active,Other
+C4188,Active,Competitor
+C4189,Active,Pricing
+C4190,Active,Competitor
+C4191,Active,Competitor
+C4192,Churned,Competitor
+C4193,Active,Competitor
+C4194,Churned,Pricing
+C4195,Active,Service Quality
+C4196,Active,Pricing
+C4197,Churned,Competitor
+C4198,Active,Other
+C4199,Churned,Pricing
+C4200,Churned,Service Quality
+C4201,Active,Other
+C4202,Active,Service Quality
+C4203,Churned,Pricing
+C4204,Active,Service Quality
+C4205,Churned,Other
+C4206,Active,Service Quality
+C4207,Active,Other
+C4208,Active,Service Quality
+C4209,Active,Service Quality
+C4210,Active,Other
+C4211,Churned,Competitor
+C4212,Active,Pricing
+C4213,Active,Service Quality
+C4214,Active,Pricing
+C4215,Active,Pricing
+C4216,Active,Service Quality
+C4217,Active,Pricing
+C4218,Active,Other
+C4219,Active,Service Quality
+C4220,Active,Pricing
+C4221,Active,Pricing
+C4222,Active,Pricing
+C4223,Active,Other
+C4224,Active,Competitor
+C4225,Active,Service Quality
+C4226,Active,Other
+C4227,Active,Competitor
+C4228,Churned,Other
+C4229,Active,Service Quality
+C4230,Active,Pricing
+C4231,Active,Competitor
+C4232,Active,Pricing
+C4233,Active,Other
+C4234,Churned,Competitor
+C4235,Active,Other
+C4236,Active,Other
+C4237,Active,Pricing
+C4238,Active,Other
+C4239,Churned,Pricing
+C4240,Active,Other
+C4241,Active,Pricing
+C4242,Active,Pricing
+C4243,Active,Other
+C4244,Churned,Competitor
+C4245,Active,Service Quality
+C4246,Active,Service Quality
+C4247,Active,Pricing
+C4248,Active,Service Quality
+C4249,Churned,Other
+C4250,Active,Service Quality
+C4251,Churned,Pricing
+C4252,Active,Competitor
+C4253,Active,Competitor
+C4254,Churned,Pricing
+C4255,Active,Service Quality
+C4256,Active,Competitor
+C4257,Active,Service Quality
+C4258,Active,Other
+C4259,Churned,Other
+C4260,Active,Pricing
+C4261,Active,Service Quality
+C4262,Active,Competitor
+C4263,Active,Service Quality
+C4264,Active,Pricing
+C4265,Active,Competitor
+C4266,Churned,Other
+C4267,Churned,Other
+C4268,Active,Service Quality
+C4269,Churned,Other
+C4270,Active,Other
+C4271,Active,Other
+C4272,Active,Other
+C4273,Churned,Other
+C4274,Active,Service Quality
+C4275,Active,Other
+C4276,Active,Pricing
+C4277,Active,Pricing
+C4278,Churned,Other
+C4279,Active,Pricing
+C4280,Active,Competitor
+C4281,Active,Pricing
+C4282,Active,Competitor
+C4283,Active,Other
+C4284,Active,Pricing
+C4285,Churned,Service Quality
+C4286,Active,Other
+C4287,Active,Competitor
+C4288,Active,Pricing
+C4289,Active,Service Quality
+C4290,Active,Competitor
+C4291,Active,Competitor
+C4292,Active,Service Quality
+C4293,Active,Service Quality
+C4294,Active,Other
+C4295,Active,Other
+C4296,Active,Service Quality
+C4297,Active,Competitor
+C4298,Active,Pricing
+C4299,Active,Other
+C4300,Active,Other
+C4301,Active,Competitor
+C4302,Churned,Pricing
+C4303,Active,Service Quality
+C4304,Active,Service Quality
+C4305,Churned,Competitor
+C4306,Active,Service Quality
+C4307,Active,Competitor
+C4308,Active,Other
+C4309,Churned,Competitor
+C4310,Active,Other
+C4311,Churned,Service Quality
+C4312,Active,Pricing
+C4313,Active,Other
+C4314,Active,Pricing
+C4315,Active,Service Quality
+C4316,Active,Service Quality
+C4317,Active,Pricing
+C4318,Churned,Other
+C4319,Active,Other
+C4320,Active,Pricing
+C4321,Churned,Other
+C4322,Active,Competitor
+C4323,Churned,Pricing
+C4324,Churned,Other
+C4325,Active,Pricing
+C4326,Active,Other
+C4327,Active,Other
+C4328,Active,Pricing
+C4329,Active,Competitor
+C4330,Active,Other
+C4331,Active,Pricing
+C4332,Active,Other
+C4333,Active,Pricing
+C4334,Active,Pricing
+C4335,Active,Other
+C4336,Active,Competitor
+C4337,Active,Pricing
+C4338,Active,Other
+C4339,Active,Service Quality
+C4340,Active,Other
+C4341,Active,Other
+C4342,Churned,Competitor
+C4343,Churned,Other
+C4344,Active,Pricing
+C4345,Churned,Pricing
+C4346,Churned,Competitor
+C4347,Churned,Competitor
+C4348,Active,Service Quality
+C4349,Active,Competitor
+C4350,Active,Competitor
+C4351,Active,Competitor
+C4352,Active,Pricing
+C4353,Active,Competitor
+C4354,Active,Service Quality
+C4355,Active,Service Quality
+C4356,Active,Pricing
+C4357,Active,Other
+C4358,Active,Pricing
+C4359,Active,Other
+C4360,Active,Service Quality
+C4361,Churned,Other
+C4362,Active,Other
+C4363,Active,Pricing
+C4364,Active,Pricing
+C4365,Active,Service Quality
+C4366,Active,Other
+C4367,Active,Other
+C4368,Active,Service Quality
+C4369,Churned,Pricing
+C4370,Churned,Pricing
+C4371,Active,Other
+C4372,Churned,Pricing
+C4373,Active,Pricing
+C4374,Active,Competitor
+C4375,Active,Competitor
+C4376,Active,Pricing
+C4377,Active,Competitor
+C4378,Churned,Service Quality
+C4379,Active,Service Quality
+C4380,Active,Competitor
+C4381,Active,Competitor
+C4382,Active,Other
+C4383,Active,Service Quality
+C4384,Churned,Competitor
+C4385,Active,Other
+C4386,Active,Service Quality
+C4387,Active,Service Quality
+C4388,Active,Service Quality
+C4389,Churned,Service Quality
+C4390,Active,Pricing
+C4391,Active,Other
+C4392,Churned,Service Quality
+C4393,Active,Other
+C4394,Active,Pricing
+C4395,Active,Competitor
+C4396,Churned,Service Quality
+C4397,Active,Service Quality
+C4398,Active,Pricing
+C4399,Active,Service Quality
+C4400,Active,Other
+C4401,Active,Other
+C4402,Active,Competitor
+C4403,Active,Pricing
+C4404,Active,Service Quality
+C4405,Active,Service Quality
+C4406,Churned,Competitor
+C4407,Churned,Other
+C4408,Active,Pricing
+C4409,Active,Pricing
+C4410,Churned,Competitor
+C4411,Active,Pricing
+C4412,Churned,Pricing
+C4413,Active,Service Quality
+C4414,Active,Pricing
+C4415,Active,Pricing
+C4416,Active,Pricing
+C4417,Active,Service Quality
+C4418,Churned,Pricing
+C4419,Active,Other
+C4420,Churned,Service Quality
+C4421,Active,Competitor
+C4422,Churned,Competitor
+C4423,Active,Other
+C4424,Active,Other
+C4425,Churned,Other
+C4426,Active,Pricing
+C4427,Active,Competitor
+C4428,Churned,Pricing
+C4429,Active,Competitor
+C4430,Active,Pricing
+C4431,Active,Competitor
+C4432,Active,Pricing
+C4433,Active,Other
+C4434,Churned,Other
+C4435,Active,Competitor
+C4436,Active,Service Quality
+C4437,Active,Competitor
+C4438,Churned,Service Quality
+C4439,Active,Pricing
+C4440,Active,Service Quality
+C4441,Churned,Pricing
+C4442,Active,Other
+C4443,Active,Competitor
+C4444,Active,Other
+C4445,Active,Service Quality
+C4446,Churned,Competitor
+C4447,Active,Pricing
+C4448,Active,Competitor
+C4449,Active,Competitor
+C4450,Active,Other
+C4451,Active,Service Quality
+C4452,Active,Service Quality
+C4453,Active,Competitor
+C4454,Active,Service Quality
+C4455,Active,Other
+C4456,Churned,Other
+C4457,Churned,Pricing
+C4458,Active,Other
+C4459,Active,Pricing
+C4460,Active,Service Quality
+C4461,Active,Competitor
+C4462,Active,Service Quality
+C4463,Active,Other
+C4464,Active,Service Quality
+C4465,Active,Service Quality
+C4466,Churned,Pricing
+C4467,Churned,Service Quality
+C4468,Active,Service Quality
+C4469,Active,Other
+C4470,Active,Competitor
+C4471,Active,Competitor
+C4472,Active,Other
+C4473,Churned,Service Quality
+C4474,Active,Other
+C4475,Churned,Competitor
+C4476,Churned,Competitor
+C4477,Active,Pricing
+C4478,Churned,Competitor
+C4479,Active,Service Quality
+C4480,Churned,Service Quality
+C4481,Active,Service Quality
+C4482,Active,Service Quality
+C4483,Active,Service Quality
+C4484,Active,Service Quality
+C4485,Active,Service Quality
+C4486,Active,Competitor
+C4487,Active,Service Quality
+C4488,Active,Service Quality
+C4489,Churned,Pricing
+C4490,Active,Pricing
+C4491,Active,Other
+C4492,Active,Competitor
+C4493,Churned,Pricing
+C4494,Active,Other
+C4495,Active,Competitor
+C4496,Active,Competitor
+C4497,Active,Pricing
+C4498,Churned,Pricing
+C4499,Active,Service Quality
+C4500,Churned,Competitor
+C4501,Active,Service Quality
+C4502,Active,Other
+C4503,Active,Service Quality
+C4504,Active,Competitor
+C4505,Churned,Competitor
+C4506,Active,Pricing
+C4507,Active,Competitor
+C4508,Churned,Service Quality
+C4509,Active,Pricing
+C4510,Active,Competitor
+C4511,Churned,Pricing
+C4512,Churned,Competitor
+C4513,Active,Service Quality
+C4514,Active,Competitor
+C4515,Active,Service Quality
+C4516,Active,Pricing
+C4517,Churned,Pricing
+C4518,Active,Competitor
+C4519,Active,Competitor
+C4520,Active,Competitor
+C4521,Churned,Competitor
+C4522,Active,Competitor
+C4523,Active,Pricing
+C4524,Active,Pricing
+C4525,Active,Other
+C4526,Active,Other
+C4527,Churned,Competitor
+C4528,Active,Competitor
+C4529,Active,Other
+C4530,Active,Other
+C4531,Active,Service Quality
+C4532,Active,Service Quality
+C4533,Active,Other
+C4534,Active,Other
+C4535,Active,Competitor
+C4536,Active,Service Quality
+C4537,Active,Service Quality
+C4538,Active,Service Quality
+C4539,Churned,Other
+C4540,Active,Service Quality
+C4541,Active,Service Quality
+C4542,Active,Service Quality
+C4543,Churned,Pricing
+C4544,Active,Other
+C4545,Active,Competitor
+C4546,Active,Other
+C4547,Active,Other
+C4548,Active,Competitor
+C4549,Active,Service Quality
+C4550,Churned,Competitor
+C4551,Churned,Competitor
+C4552,Churned,Pricing
+C4553,Active,Competitor
+C4554,Active,Service Quality
+C4555,Active,Service Quality
+C4556,Active,Other
+C4557,Churned,Pricing
+C4558,Churned,Competitor
+C4559,Churned,Other
+C4560,Active,Service Quality
+C4561,Active,Other
+C4562,Active,Pricing
+C4563,Active,Pricing
+C4564,Churned,Competitor
+C4565,Churned,Service Quality
+C4566,Churned,Service Quality
+C4567,Active,Competitor
+C4568,Churned,Service Quality
+C4569,Active,Service Quality
+C4570,Active,Competitor
+C4571,Churned,Other
+C4572,Churned,Other
+C4573,Active,Pricing
+C4574,Active,Competitor
+C4575,Active,Other
+C4576,Active,Pricing
+C4577,Active,Competitor
+C4578,Active,Competitor
+C4579,Active,Pricing
+C4580,Active,Other
+C4581,Churned,Pricing
+C4582,Active,Competitor
+C4583,Active,Service Quality
+C4584,Active,Competitor
+C4585,Active,Pricing
+C4586,Active,Service Quality
+C4587,Active,Other
+C4588,Active,Service Quality
+C4589,Active,Other
+C4590,Churned,Competitor
+C4591,Active,Other
+C4592,Churned,Competitor
+C4593,Churned,Competitor
+C4594,Active,Pricing
+C4595,Active,Service Quality
+C4596,Active,Service Quality
+C4597,Active,Service Quality
+C4598,Churned,Other
+C4599,Churned,Service Quality
+C4600,Active,Service Quality
+C4601,Active,Competitor
+C4602,Active,Service Quality
+C4603,Churned,Service Quality
+C4604,Active,Pricing
+C4605,Churned,Competitor
+C4606,Active,Competitor
+C4607,Active,Service Quality
+C4608,Active,Competitor
+C4609,Churned,Other
+C4610,Active,Service Quality
+C4611,Active,Competitor
+C4612,Active,Pricing
+C4613,Churned,Competitor
+C4614,Active,Other
+C4615,Active,Service Quality
+C4616,Active,Other
+C4617,Active,Other
+C4618,Churned,Competitor
+C4619,Active,Other
+C4620,Active,Competitor
+C4621,Active,Competitor
+C4622,Active,Other
+C4623,Active,Pricing
+C4624,Active,Pricing
+C4625,Active,Pricing
+C4626,Active,Other
+C4627,Active,Competitor
+C4628,Active,Competitor
+C4629,Churned,Competitor
+C4630,Churned,Pricing
+C4631,Active,Competitor
+C4632,Active,Pricing
+C4633,Churned,Competitor
+C4634,Churned,Other
+C4635,Churned,Other
+C4636,Churned,Pricing
+C4637,Active,Service Quality
+C4638,Active,Service Quality
+C4639,Active,Service Quality
+C4640,Active,Pricing
+C4641,Active,Pricing
+C4642,Active,Other
+C4643,Churned,Other
+C4644,Active,Competitor
+C4645,Active,Other
+C4646,Active,Service Quality
+C4647,Active,Service Quality
+C4648,Active,Service Quality
+C4649,Active,Service Quality
+C4650,Churned,Other
+C4651,Active,Pricing
+C4652,Active,Other
+C4653,Active,Competitor
+C4654,Active,Other
+C4655,Active,Service Quality
+C4656,Active,Service Quality
+C4657,Active,Pricing
+C4658,Active,Other
+C4659,Active,Pricing
+C4660,Active,Competitor
+C4661,Active,Service Quality
+C4662,Churned,Pricing
+C4663,Churned,Service Quality
+C4664,Active,Other
+C4665,Active,Competitor
+C4666,Churned,Pricing
+C4667,Active,Other
+C4668,Churned,Competitor
+C4669,Active,Other
+C4670,Churned,Competitor
+C4671,Active,Service Quality
+C4672,Active,Pricing
+C4673,Churned,Service Quality
+C4674,Active,Pricing
+C4675,Churned,Service Quality
+C4676,Active,Service Quality
+C4677,Active,Service Quality
+C4678,Active,Other
+C4679,Active,Service Quality
+C4680,Churned,Competitor
+C4681,Active,Competitor
+C4682,Active,Competitor
+C4683,Active,Other
+C4684,Active,Service Quality
+C4685,Churned,Service Quality
+C4686,Active,Service Quality
+C4687,Churned,Pricing
+C4688,Active,Pricing
+C4689,Active,Other
+C4690,Active,Other
+C4691,Active,Service Quality
+C4692,Active,Other
+C4693,Active,Pricing
+C4694,Active,Other
+C4695,Active,Other
+C4696,Active,Service Quality
+C4697,Active,Other
+C4698,Active,Competitor
+C4699,Active,Pricing
+C4700,Active,Service Quality
+C4701,Churned,Pricing
+C4702,Active,Service Quality
+C4703,Active,Pricing
+C4704,Active,Competitor
+C4705,Active,Other
+C4706,Active,Service Quality
+C4707,Churned,Competitor
+C4708,Active,Other
+C4709,Active,Service Quality
+C4710,Active,Competitor
+C4711,Churned,Competitor
+C4712,Active,Competitor
+C4713,Active,Service Quality
+C4714,Active,Pricing
+C4715,Churned,Other
+C4716,Churned,Pricing
+C4717,Active,Other
+C4718,Active,Competitor
+C4719,Churned,Competitor
+C4720,Active,Pricing
+C4721,Active,Competitor
+C4722,Active,Competitor
+C4723,Active,Pricing
+C4724,Active,Service Quality
+C4725,Churned,Pricing
+C4726,Active,Competitor
+C4727,Churned,Other
+C4728,Active,Competitor
+C4729,Active,Service Quality
+C4730,Churned,Competitor
+C4731,Active,Other
+C4732,Active,Pricing
+C4733,Active,Service Quality
+C4734,Active,Pricing
+C4735,Churned,Service Quality
+C4736,Active,Competitor
+C4737,Active,Competitor
+C4738,Active,Other
+C4739,Active,Pricing
+C4740,Churned,Pricing
+C4741,Churned,Pricing
+C4742,Active,Pricing
+C4743,Active,Other
+C4744,Active,Other
+C4745,Active,Pricing
+C4746,Active,Competitor
+C4747,Active,Other
+C4748,Churned,Pricing
+C4749,Active,Pricing
+C4750,Active,Service Quality
+C4751,Active,Competitor
+C4752,Active,Competitor
+C4753,Churned,Competitor
+C4754,Active,Service Quality
+C4755,Active,Pricing
+C4756,Active,Pricing
+C4757,Active,Service Quality
+C4758,Active,Pricing
+C4759,Active,Other
+C4760,Active,Other
+C4761,Active,Competitor
+C4762,Active,Competitor
+C4763,Churned,Other
+C4764,Active,Competitor
+C4765,Active,Pricing
+C4766,Active,Competitor
+C4767,Active,Service Quality
+C4768,Active,Service Quality
+C4769,Active,Service Quality
+C4770,Active,Other
+C4771,Active,Other
+C4772,Active,Competitor
+C4773,Active,Other
+C4774,Active,Service Quality
+C4775,Churned,Service Quality
+C4776,Active,Service Quality
+C4777,Churned,Pricing
+C4778,Active,Competitor
+C4779,Active,Other
+C4780,Churned,Other
+C4781,Active,Other
+C4782,Active,Service Quality
+C4783,Active,Service Quality
+C4784,Active,Competitor
+C4785,Active,Other
+C4786,Active,Pricing
+C4787,Churned,Service Quality
+C4788,Active,Competitor
+C4789,Active,Pricing
+C4790,Active,Service Quality
+C4791,Active,Other
+C4792,Active,Service Quality
+C4793,Active,Competitor
+C4794,Active,Service Quality
+C4795,Active,Pricing
+C4796,Active,Service Quality
+C4797,Active,Pricing
+C4798,Active,Other
+C4799,Active,Service Quality
+C4800,Churned,Competitor
+C4801,Churned,Pricing
+C4802,Churned,Service Quality
+C4803,Active,Pricing
+C4804,Churned,Competitor
+C4805,Active,Competitor
+C4806,Active,Competitor
+C4807,Active,Pricing
+C4808,Active,Service Quality
+C4809,Active,Competitor
+C4810,Churned,Competitor
+C4811,Active,Competitor
+C4812,Active,Competitor
+C4813,Active,Other
+C4814,Active,Other
+C4815,Churned,Competitor
+C4816,Active,Service Quality
+C4817,Active,Pricing
+C4818,Active,Other
+C4819,Active,Other
+C4820,Active,Pricing
+C4821,Active,Service Quality
+C4822,Churned,Service Quality
+C4823,Churned,Other
+C4824,Active,Competitor
+C4825,Active,Competitor
+C4826,Churned,Other
+C4827,Active,Competitor
+C4828,Active,Pricing
+C4829,Churned,Pricing
+C4830,Active,Service Quality
+C4831,Active,Service Quality
+C4832,Churned,Competitor
+C4833,Active,Service Quality
+C4834,Active,Pricing
+C4835,Active,Pricing
+C4836,Churned,Pricing
+C4837,Churned,Competitor
+C4838,Active,Other
+C4839,Active,Service Quality
+C4840,Active,Other
+C4841,Active,Competitor
+C4842,Active,Pricing
+C4843,Active,Pricing
+C4844,Active,Service Quality
+C4845,Active,Service Quality
+C4846,Active,Competitor
+C4847,Churned,Other
+C4848,Active,Other
+C4849,Active,Other
+C4850,Active,Other
+C4851,Active,Service Quality
+C4852,Active,Competitor
+C4853,Active,Service Quality
+C4854,Active,Other
+C4855,Active,Pricing
+C4856,Active,Other
+C4857,Active,Other
+C4858,Churned,Service Quality
+C4859,Churned,Other
+C4860,Active,Pricing
+C4861,Active,Pricing
+C4862,Active,Other
+C4863,Active,Competitor
+C4864,Active,Service Quality
+C4865,Active,Pricing
+C4866,Active,Service Quality
+C4867,Active,Other
+C4868,Active,Competitor
+C4869,Active,Pricing
+C4870,Active,Pricing
+C4871,Churned,Service Quality
+C4872,Active,Competitor
+C4873,Active,Other
+C4874,Active,Competitor
+C4875,Active,Pricing
+C4876,Churned,Other
+C4877,Active,Pricing
+C4878,Active,Other
+C4879,Active,Competitor
+C4880,Active,Pricing
+C4881,Active,Pricing
+C4882,Churned,Other
+C4883,Active,Pricing
+C4884,Active,Pricing
+C4885,Active,Service Quality
+C4886,Active,Service Quality
+C4887,Active,Service Quality
+C4888,Active,Service Quality
+C4889,Active,Pricing
+C4890,Active,Competitor
+C4891,Active,Service Quality
+C4892,Churned,Pricing
+C4893,Active,Other
+C4894,Active,Competitor
+C4895,Active,Service Quality
+C4896,Churned,Competitor
+C4897,Active,Service Quality
+C4898,Churned,Competitor
+C4899,Active,Competitor
+C4900,Active,Other
+C4901,Active,Other
+C4902,Active,Pricing
+C4903,Active,Pricing
+C4904,Active,Other
+C4905,Active,Other
+C4906,Active,Pricing
+C4907,Active,Other
+C4908,Churned,Service Quality
+C4909,Active,Other
+C4910,Active,Service Quality
+C4911,Active,Service Quality
+C4912,Active,Pricing
+C4913,Active,Service Quality
+C4914,Active,Other
+C4915,Active,Pricing
+C4916,Active,Service Quality
+C4917,Churned,Service Quality
+C4918,Churned,Other
+C4919,Active,Competitor
+C4920,Active,Competitor
+C4921,Active,Other
+C4922,Active,Pricing
+C4923,Active,Other
+C4924,Active,Service Quality
+C4925,Active,Other
+C4926,Active,Pricing
+C4927,Active,Competitor
+C4928,Active,Pricing
+C4929,Active,Competitor
+C4930,Active,Service Quality
+C4931,Active,Competitor
+C4932,Active,Pricing
+C4933,Active,Other
+C4934,Active,Pricing
+C4935,Active,Other
+C4936,Active,Service Quality
+C4937,Active,Other
+C4938,Churned,Other
+C4939,Active,Pricing
+C4940,Active,Other
+C4941,Active,Competitor
+C4942,Churned,Other
+C4943,Active,Competitor
+C4944,Active,Service Quality
+C4945,Active,Pricing
+C4946,Active,Competitor
+C4947,Active,Service Quality
+C4948,Active,Pricing
+C4949,Churned,Pricing
+C4950,Active,Pricing
+C4951,Churned,Pricing
+C4952,Active,Pricing
+C4953,Active,Service Quality
+C4954,Active,Other
+C4955,Active,Pricing
+C4956,Active,Competitor
+C4957,Churned,Competitor
+C4958,Active,Service Quality
+C4959,Active,Competitor
+C4960,Churned,Other
+C4961,Active,Other
+C4962,Active,Pricing
+C4963,Churned,Competitor
+C4964,Churned,Other
+C4965,Active,Pricing
+C4966,Active,Service Quality
+C4967,Churned,Other
+C4968,Churned,Service Quality
+C4969,Churned,Pricing
+C4970,Churned,Competitor
+C4971,Active,Service Quality
+C4972,Churned,Other
+C4973,Active,Competitor
+C4974,Active,Pricing
+C4975,Active,Pricing
+C4976,Active,Other
+C4977,Active,Other
+C4978,Active,Pricing
+C4979,Active,Pricing
+C4980,Churned,Other
+C4981,Active,Other
+C4982,Active,Pricing
+C4983,Active,Pricing
+C4984,Active,Pricing
+C4985,Active,Competitor
+C4986,Churned,Service Quality
+C4987,Active,Other
+C4988,Active,Other
+C4989,Active,Other
+C4990,Active,Competitor
+C4991,Active,Competitor
+C4992,Active,Pricing
+C4993,Active,Other
+C4994,Active,Pricing
+C4995,Churned,Competitor
+C4996,Churned,Service Quality
+C4997,Active,Competitor
+C4998,Active,Other
+C4999,Churned,Service Quality
+C5000,Churned,Service Quality
